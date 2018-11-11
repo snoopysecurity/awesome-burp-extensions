@@ -12,10 +12,14 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
  - Go through our Content Menu
 
 # Content
-- [Emulators](#emulators)
+- [Scanners](#scanners)
+- [Beautifiers](#beautifiers)
+- [Cloud Security](#cloudsecurity)
+- [Scripting](#scripting)
+- [Vulnerability Specific](#vulnrelated)
+    - [xss](#xss)
 
-
-## Emulators
+## Scanners
 
 *Passive and Active scan plugins*
 
@@ -27,12 +31,12 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 * [Software Version Reporter](https://github.com/augustd/burp-suite-software-version-checks)
 
 
-## [↑](#contents) Beautifiers
+## Beautifiers
 
 * [.NET Beautifier](https://github.com/allfro/dotNetBeautifier) 
 * [JS Beautifier](https://github.com/irsdl/BurpSuiteJSBeautifier) 
 
-## [↑](#contents) Cloud Security
+## Cloud Security
 
 *Plugins related to Cloud Security*
 
@@ -40,13 +44,13 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 * [AWS Extender](https://github.com/VirtueSecurity/aws-extender.)
 * [Cloud Storage Tester](https://github.com/PortSwigger/cloud-storage-tester)
 
-## [↑](#contents) Scripting Plugins
+## Scripting
 * [Python Scripter](https://github.com/portswigger/python-scripter)
 
 
-## [↑](#contents) Vulnerability Specfic plugins
+## Vulnerability Specific
 
-### [↑](#contents) XSS
+### XSS
 
 * [XSS Validator](https://github.com/nVisium/xssValidator)
 
