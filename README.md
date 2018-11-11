@@ -6,11 +6,16 @@ A curated list of amazingly awesome Burp Plugins
 [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
 
-## Table of Contents
+# How to Use
+Awesome-burp-plugins is an amazing list for people who wants to spice up their Burp instance with awesome plugins. The best ways to use are:
+ - Simply press command + F to search for a keyword
+ - Go through our Content Menu
 
- - [Scanners](#scanners)
+# Content
+- [Emulators](#emulators)
 
-## [↑](#scanners) Scanners
+
+## Emulators
 
 *Passive and Active scan plugins*
 
