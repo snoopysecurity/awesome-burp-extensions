@@ -1,5 +1,5 @@
-# Awesome Burp Plugins
-A curated list of amazingly awesome Burp Plugins
+# Awesome Burp Extensions
+A curated list of amazingly awesome Burp Extensions
 
 # Contributing
 
@@ -24,7 +24,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
 - [Cryptography](#cryptography)
-
+- [Training Resources](#training-resources)
 ## Scanners
 
 *Passive and Active scan plugins*
@@ -91,3 +91,8 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 ## Cryptography
 
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
+
+
+## Training Resources
+
+* [Burp plugin development for java n00bs (44 con)](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
