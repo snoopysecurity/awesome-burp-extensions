@@ -118,7 +118,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Suite Logger++](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus)
 * [Burp Dump](https://github.com/crashgrindrips/burp-dump)
 * [HUNT](https://github.com/bugcrowd/HUNT)
-* [Burp SQLite logger]https://github.com/silentsignal/burp-sqlite-logger
+* [Burp SQLite logger](https://github.com/silentsignal/burp-sqlite-logger)
 * [Burp Git Version](https://github.com/silentsignal/burp-git-version)
 * [Burp Commentator](https://github.com/silentsignal/burp-commentator)
 
