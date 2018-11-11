@@ -17,7 +17,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 - [Cloud Security](#cloudsecurity)
 - [Scripting](#scripting)
 - [Vulnerability Specific](#vulnerability-specific)
-    - [xss](#xss)
+    - [Cross-site scripting](#Cross-site-scripting)
 
 ## Scanners
 
@@ -50,7 +50,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 
 ## Vulnerability Specific
 
-### XSS
+### Cross-site scripting
 
 * [XSS Validator](https://github.com/nVisium/xssValidator)
 
