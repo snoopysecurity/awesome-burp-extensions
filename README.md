@@ -6,7 +6,7 @@ A curated list of amazingly awesome Burp Plugins
 *Passive and Active scan plugins*
 
 * [ActiveScan++](https://github.com/albinowax/ActiveScanPlusPlus)
-
+* [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner)
 ## [↑](#contents) Beautifiers
 
 * [.NET Beautifier](https://github.com/allfro/dotNetBeautifier) 
