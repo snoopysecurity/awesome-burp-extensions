@@ -59,6 +59,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [.NET Beautifier](https://github.com/allfro/dotNetBeautifier) 
 * [JS Beautifier](https://github.com/irsdl/BurpSuiteJSBeautifier) 
+* [Burp ASN1 Toolbox](https://github.com/silentsignal/burp-asn1)
 
 ## Cloud Security
 
@@ -71,6 +72,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ## Scripting
 * [Python Scripter](https://github.com/portswigger/python-scripter)
 * [Burpkit](https://github.com/allfro/BurpKit)
+* [Burp Requests]https://github.com/silentsignal/burp-requests
 
 ## SAML
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
@@ -132,11 +134,14 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ## Traffic Capture
 
 * [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension)
+
 ## Misc
 
 * [Burp Rest API](https://github.com/vmware/burp-rest-api)
+* [Burpa](https://github.com/0x4D31/burpa)
 * [Intruder Payloads](https://github.com/1N3/IntruderPayloads)
 * [Burp Uniqueness](https://github.com/silentsignal/burp-uniqueness)
+
 ## Training Resources
 
 * [Burp plugin development for java n00bs (44 con)](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
