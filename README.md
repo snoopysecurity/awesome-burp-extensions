@@ -1,6 +1,11 @@
 # Awesome Burp Plugins
 A curated list of amazingly awesome Burp Plugins
 
+# Contributing
+
+[Please refer to the contributing guide for details](CONTRIBUTING.md).
+
+
 ## [↑](#contents) Scanners
 
 *Passive and Active scan plugins*
