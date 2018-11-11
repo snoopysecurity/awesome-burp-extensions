@@ -5,6 +5,21 @@ A curated list of amazingly awesome Burp Plugins
 
 [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
+Table of Contents
+=================
+
+1. [Massive Online Open Courses](#massive-online-open-courses)
+2. [Academic Courses](#academic-courses)
+3. [Laboratories](#laboratories)
+4. [Capture the Flag](#capture-the-flag)
+5. [Open Security Books](#open-security-books)
+6. [Challenges](#challenges)
+7. [Documentation](#documentation)
+8. [SecurityTube Playlists](#securitytube-playlists)
+9. [Related Awesome Lists](#related-awesome-lists)
+10. [Contributing](#contributing)
+11. [License](#license)
+
 
 ## [↑](#contents) Scanners
 
