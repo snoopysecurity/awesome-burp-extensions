@@ -54,12 +54,14 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Noopener Burp Extension](https://github.com/snoopysecurity/Noopener-Burp-Extension)
 * [ActiveScan3Plus](https://github.com/silentsignal/ActiveScan3Plus)
 * [Burp Image Size](https://github.com/silentsignal/burp-image-size)
+* [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
 
 ## Beautifiers
 
 * [.NET Beautifier](https://github.com/allfro/dotNetBeautifier) 
 * [JS Beautifier](https://github.com/irsdl/BurpSuiteJSBeautifier) 
 * [Burp ASN1 Toolbox](https://github.com/silentsignal/burp-asn1)
+* [JSON JTree viewer for Burp Suite](https://github.com/silentsignal/burp-json-jtree)
 
 ## Cloud Security
 
@@ -89,6 +91,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
 * [Autorize](https://github.com/Quitten/Autorize)
 * [AutoRepeater](https://github.com/nccgroup/AutoRepeater)
+* [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
 
 ### Cross-Site Request Forgery
 
