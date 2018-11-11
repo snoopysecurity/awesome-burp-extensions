@@ -1,4 +1,4 @@
-# awesome burp plugins
+# Awesome Burp Plugins
 A curated list of amazingly awesome Burp Plugins
 
 ## [↑](#contents) Scanners
