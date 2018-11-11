@@ -72,7 +72,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ## Scripting
 * [Python Scripter](https://github.com/portswigger/python-scripter)
 * [Burpkit](https://github.com/allfro/BurpKit)
-* [Burp Requests]https://github.com/silentsignal/burp-requests
+* [Burp Requests](https://github.com/silentsignal/burp-requests)
 
 ## SAML
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
