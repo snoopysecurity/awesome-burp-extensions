@@ -23,6 +23,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
     - [Deserialization](#deserialization)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
+- [Cryptography](#cryptography)
 ## Scanners
 
 *Passive and Active scan plugins*
@@ -83,3 +84,8 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 * [Burp Notes](https://github.com/SpiderLabs/BurpNotesExtension)
 * [Burp Suite Logger++](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus)
 * [Burp Dump](https://github.com/crashgrindrips/burp-dump)
+
+
+## Cryptography
+
+* [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
