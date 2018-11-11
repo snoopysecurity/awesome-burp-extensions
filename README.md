@@ -42,6 +42,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [CSP-Bypass](https://github.com/moloch--/CSP-Bypass)
 * [Burp Sentinel](https://github.com/dobin/BurpSentinel)
 * [Backslash Powered Scanner](https://github.com/PortSwigger/backslash-powered-scanner)
+* [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere)
 
 ## Beautifiers
 
@@ -82,7 +83,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 ### Sensitive Data Exposure
 
-* [Sensitive Data Exposure](https://github.com/pathetiq/BurpSmartBuster)
+* [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster)
 
 ## Web Application Firewall Evasion
 * [Bypasswaf](https://github.com/codewatchorg/bypasswaf)
