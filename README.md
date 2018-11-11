@@ -17,7 +17,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 - [Cloud Security](#cloudsecurity)
 - [Scripting](#scripting)
 - [Vulnerability Specific](#vulnerability-specific)
-    - [Cross-site scripting](#Cross-site-scripting)
+    - [Cross-site scripting](#cross-site-scripting)
 
 ## Scanners
 
