@@ -21,9 +21,11 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
     - [Broken Access Control](#broken-acess-control)
     - [Cross-Site Request Forgery](#cross-site-request-forgery)
     - [Deserialization](#deserialization)
+    - [Sensitive Data Exposure](#sensitive-data-exposure)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
 - [Cryptography](#cryptography)
+- [Misc](#misc)
 - [Training Resources](#training-resources)
 ## Scanners
 
@@ -78,6 +80,10 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
 
+### Sensitive Data Exposure
+
+* [Sensitive Data Exposure](https://github.com/pathetiq/BurpSmartBuster)
+
 ## Web Application Firewall Evasion
 * [Bypasswaf](https://github.com/codewatchorg/bypasswaf)
 * [Random IP Address Header](https://github.com/PortSwigger/random-ip-address-header)
@@ -92,6 +98,9 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 
+## Misc
+
+* [Burp Rest API](https://github.com/vmware/burp-rest-api)
 
 ## Training Resources
 
