@@ -24,6 +24,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
 - [Cryptography](#cryptography)
+
 ## Scanners
 
 *Passive and Active scan plugins*
@@ -38,6 +39,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
 * [CSP-Bypass](https://github.com/moloch--/CSP-Bypass)
 * [Burp Sentinel](https://github.com/dobin/BurpSentinel)
+* [Backslash Powered Scanner](https://github.com/PortSwigger/backslash-powered-scanner)
 
 ## Beautifiers
 
