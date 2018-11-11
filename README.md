@@ -35,6 +35,10 @@ A curated list of amazingly awesome Burp Plugins
 * [AWS Extender](https://github.com/VirtueSecurity/aws-extender.)
 * [Cloud Storage Tester](https://github.com/PortSwigger/cloud-storage-tester)
 
+## [↑](#contents) Scripting Plugins
+* [Python Scripter](https://github.com/portswigger/python-scripter)
+
+
 ## [↑](#contents) Vulnerability Specfic plugins
 
 ### [↑](#contents) XSS
@@ -42,5 +46,4 @@ A curated list of amazingly awesome Burp Plugins
 * [XSS Validator](https://github.com/nVisium/xssValidator)
 
 
-## [↑](#contents) Scripting Plugins
-* [Python Scripter](https://github.com/portswigger/python-scripter)
+
