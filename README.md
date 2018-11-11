@@ -22,11 +22,14 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
     - [Cross-Site Request Forgery](#cross-site-request-forgery)
     - [Deserialization](#deserialization)
     - [Sensitive Data Exposure](#sensitive-data-exposure)
+    - [SQL Injection](#sql-injection)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
+- [Payload Generator](#payload-generator)
 - [Cryptography](#cryptography)
 - [Misc](#misc)
 - [Training Resources](#training-resources)
+
 ## Scanners
 
 *Passive and Active scan plugins*
@@ -85,6 +88,10 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster)
 
+### SQL Injection
+
+* [CO2](https://github.com/JGillam/burp-co2)
+
 ## Web Application Firewall Evasion
 * [Bypasswaf](https://github.com/codewatchorg/bypasswaf)
 * [Random IP Address Header](https://github.com/PortSwigger/random-ip-address-header)
@@ -94,6 +101,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Suite Logger++](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus)
 * [Burp Dump](https://github.com/crashgrindrips/burp-dump)
 
+## Payload Generator
+* [CO2](https://github.com/JGillam/burp-co2))
 
 ## Cryptography
 
