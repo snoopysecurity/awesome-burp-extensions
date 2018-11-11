@@ -7,6 +7,10 @@ A curated list of amazingly awesome Burp Plugins
 
 * [ActiveScan++](https://github.com/albinowax/ActiveScanPlusPlus)
 
+## [↑](#contents) Beautifiers
+
+* [.NET Beautifier](https://github.com/allfro/dotNetBeautifier) 
+
 
 ## [↑](#contents) Cloud Security
 
