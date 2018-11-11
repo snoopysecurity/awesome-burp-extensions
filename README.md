@@ -16,7 +16,7 @@ Awesome-burp-plugins is an amazing list for people who wants to spice up their B
 - [Beautifiers](#beautifiers)
 - [Cloud Security](#cloudsecurity)
 - [Scripting](#scripting)
-- [Vulnerability Specific](#vulnrelated)
+- [Vulnerability Specific](#vulnerabilityspecific)
     - [xss](#xss)
 
 ## Scanners
