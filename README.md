@@ -25,6 +25,9 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
     - [Sensitive Data Exposure](#sensitive-data-exposure)
     - [SQL Injection](#sql-injection)
     - [XXE](#xxe)
+    - [Insecure File Uploads](#insecure-file-uploads)
+    - [Directory Traversal](#directory-traversal)
+    - [Session Management](#session-management)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
 - [Payload Generator](#payload-generator)
@@ -63,6 +66,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [ParrotNG](https://github.com/ikkisoft/ParrotNG)
 * [Error Message Checks](https://github.com/augustd/burp-suite-error-message-checks)
 * [Identity Crisis](https://github.com/EnableSecurity/Identity-Crisis)
+* [CSP-Auditor](https://github.com/GoSecure/csp-auditor)
 
 ## Beautifiers
 
@@ -104,20 +108,26 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [AutoRepeater](https://github.com/nccgroup/AutoRepeater)
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
 * [Authz](https://github.com/wuntee/BurpAuthzPlugin)
+* [Paramalyzer](https://github.com/JGillam/burp-paramalyzer)
+* [Burp SessionAuth](https://github.com/thomaspatzke/Burp-SessionAuthTool)
 
 ### Cross-Site Request Forgery
 
 * [CSRF Scanner](https://github.com/ah8r/csrf)
+* [CSurfer](https://github.com/asaafan/CSurfer)
 
 ### Deserialization
 
 * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
+* [Java Serial Killer](https://github.com/NetSPI/JavaSerialKiller)
 
 ### Sensitive Data Exposure
 
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster)
 * [PwnBack](https://github.com/P3GLEG/PwnBack)
 * [PDF Metadata](https://github.com/luh2/PDFMetadata)
+* [SpyDir](https://github.com/aur3lius-dev/SpyDir)
+* [Burp Hash](https://github.com/burp-hash/burp-hash)
 
 ### SQL Injection
 
@@ -126,6 +136,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ### XXE
 
 * [Office OpenXML Editor](https://github.com/PortSwigger/office-open-xml-editor)
+* [Content Type Converter](https://github.com/NetSPI/Burp-Extensions/tree/master/ContentTypeConverter)
 
 ### Insecure File Uploads
 
@@ -134,6 +145,10 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ### Directory Traversal
 
 * [Uploader](https://github.com/thec00n/Uploader)
+
+### Session Management
+
+* [Session Timeout Test](https://github.com/augustd/burp-suite-session-timeout-test)
 
 ## Web Application Firewall Evasion
 * [Bypasswaf](https://github.com/codewatchorg/bypasswaf)
@@ -148,25 +163,34 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Git Version](https://github.com/silentsignal/burp-git-version)
 * [Burp Commentator](https://github.com/silentsignal/burp-commentator)
 * [Hackbar](https://github.com/d3vilbug/HackBar)
+* [Burp Suite Importer](https://github.com/SmeegeSec/Burp-Importer)
+* [Hackvertor](https://github.com/hackvertor/hackvertor)
 
 ## Payload Generator
 * [CO2](https://github.com/JGillam/burp-co2))
 * [Bradamsa](https://github.com/ikkisoft/bradamsa)
+* [PayloadParser](https://github.com/infodel/burp.extension-payloadparser)
 
 ## Cryptography
 
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 * [AES Burp](https://github.com/lgrangeia/aesburp)
 * [Crypto Attackeer](https://github.com/PortSwigger/crypto-attacker)
+
 ## Web Services
 
 * [WCF-Binary-SOAP-Plug-In](https://github.com/GDSSecurity/WCF-Binary-SOAP-Plug-In)
 * [WSDL Wizard](https://github.com/SmeegeSec/WSDLWizard)
+* [BurpWCFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpWCFDser)
+* [JSWS](https://github.com/NetSPI/JSWS)
+* [JSON Decoder](https://github.com/PortSwigger/json-decoder)
 
 ## Traffic Analysis
 
 * [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension)
 * [Burp Suite GWT wrapper](https://github.com/dnet/burp-gwt-wrapper)
+* [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer)
+* [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer)
 
 ## iOS
 
@@ -179,6 +203,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Intruder Payloads](https://github.com/1N3/IntruderPayloads)
 * [Burp Uniqueness](https://github.com/silentsignal/burp-uniqueness)
 * [Sample Burp Suite extension: custom scanner checks](https://github.com/PortSwigger/example-scanner-checks)
+* [Directory File Listing Parser Importer](https://github.com/SmeegeSec/Directory_File_Listing_Parser_Importer)
 
 ## Burp Extension Training Resources
 
