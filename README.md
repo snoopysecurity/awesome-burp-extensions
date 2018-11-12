@@ -30,6 +30,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 - [Payload Generator](#payload-generator)
 - [Cryptography](#cryptography)
 - [Traffic Capture](#traffic-capture)
+- [iOS](#ios)
 - [Misc](#misc)
 - [Training Resources](#training-resources)
 
@@ -56,8 +57,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Image Size](https://github.com/silentsignal/burp-image-size)
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
 * [JSON array issues for Burp Suite](https://github.com/silentsignal/burp-json-array)
-
-
+* [Burp retire js]https://github.com/h3xstream/burp-retire-js
+* [SOMEtime](https://github.com/linkedin/sometime)
 
 ## Beautifiers
 
@@ -65,6 +66,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [JS Beautifier](https://github.com/irsdl/BurpSuiteJSBeautifier) 
 * [Burp ASN1 Toolbox](https://github.com/silentsignal/burp-asn1)
 * [JSON JTree viewer for Burp Suite](https://github.com/silentsignal/burp-json-jtree)
+* [JSON Beautifier](https://github.com/NetSPI/JSONBeautifier)
 
 ## Cloud Security
 
@@ -96,6 +98,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Autorize](https://github.com/Quitten/Autorize)
 * [AutoRepeater](https://github.com/nccgroup/AutoRepeater)
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
+* [Authz](https://github.com/wuntee/BurpAuthzPlugin)
 
 ### Cross-Site Request Forgery
 
@@ -109,6 +112,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster)
 * [PwnBack](https://github.com/P3GLEG/PwnBack)
+* [PDF Metadata](https://github.com/luh2/PDFMetadata)
 
 ### SQL Injection
 
@@ -137,10 +141,15 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ## Cryptography
 
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
+* [AES Burp](https://github.com/lgrangeia/aesburp)
 
 ## Traffic Capture
 
 * [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension)
+
+## iOS
+
+* [CFURL Cache inspector for Burp Suite](https://github.com/silentsignal/burp-cfurl-cache)
 
 ## Misc
 
@@ -149,6 +158,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Intruder Payloads](https://github.com/1N3/IntruderPayloads)
 * [Burp Uniqueness](https://github.com/silentsignal/burp-uniqueness)
 
-## Training Resources
+## Burp Extension Training Resources
 
-* [Burp plugin development for java n00bs (44 con)](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
+* [Burp plugin development for java n00bs - Marc Wickenden)](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
+* [Developing Burp Suite Extensions - Doyensec](https://github.com/doyensec/burpdeveltraining)
+* [Writing your first Burp Suite extension - Portswigger]https://portswigger.net/burp/extender/writing-your-first-burp-suite-extension
