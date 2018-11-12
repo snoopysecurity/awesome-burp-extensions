@@ -67,6 +67,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Error Message Checks](https://github.com/augustd/burp-suite-error-message-checks)
 * [Identity Crisis](https://github.com/EnableSecurity/Identity-Crisis)
 * [CSP-Auditor](https://github.com/GoSecure/csp-auditor)
+* [Burp Suite GWT Scan](https://github.com/augustd/burp-suite-gwt-scan)
 
 ## Beautifiers
 
@@ -120,6 +121,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
 * [Java Serial Killer](https://github.com/NetSPI/JavaSerialKiller)
+* [BurpJDSer-ng](https://github.com/IOActive/BurpJDSer-ng)
 
 ### Sensitive Data Exposure
 
@@ -132,7 +134,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ### SQL Injection
 
 * [CO2](https://github.com/JGillam/burp-co2)
-
+* [SQLiPy](https://github.com/codewatchorg/sqlipy)
 ### XXE
 
 * [Office OpenXML Editor](https://github.com/PortSwigger/office-open-xml-editor)
@@ -184,6 +186,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [BurpWCFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpWCFDser)
 * [JSWS](https://github.com/NetSPI/JSWS)
 * [JSON Decoder](https://github.com/PortSwigger/json-decoder)
+* [WSDLer](https://github.com/NetSPI/Wsdler)
+* [POST2JSON](https://github.com/cyberisltd/POST2JSON/tree/3d6109a4749352849e5e7f27737e5384f78c4552)
 
 ## Traffic Analysis
 
@@ -191,6 +195,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Suite GWT wrapper](https://github.com/dnet/burp-gwt-wrapper)
 * [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer)
 * [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer)
+* [Deflate Burp Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin)
 
 ## iOS
 
