@@ -16,7 +16,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 - [Beautifiers](#beautifiers)
 - [Cloud Security](#cloudsecurity)
 - [Scripting](#scripting)
-- [OAuth/SSO](#oauth/saml)
+- [OAuth/SAML](#oauthsaml)
 - [Vulnerability Specific](#vulnerability-specific)
     - [Cross-site scripting](#cross-site-scripting)
     - [Broken Access Control](#broken-acess-control)
