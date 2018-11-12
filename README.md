@@ -16,7 +16,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 - [Beautifiers](#beautifiers)
 - [Cloud Security](#cloudsecurity)
 - [Scripting](#scripting)
-- [SAML](#saml)
+- [OAuth/SSO](#oauth-saml)
 - [Vulnerability Specific](#vulnerability-specific)
     - [Cross-site scripting](#cross-site-scripting)
     - [Broken Access Control](#broken-acess-control)
@@ -55,6 +55,9 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [ActiveScan3Plus](https://github.com/silentsignal/ActiveScan3Plus)
 * [Burp Image Size](https://github.com/silentsignal/burp-image-size)
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
+* [JSON array issues for Burp Suite](https://github.com/silentsignal/burp-json-array)
+
+
 
 ## Beautifiers
 
@@ -76,8 +79,9 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burpkit](https://github.com/allfro/BurpKit)
 * [Burp Requests](https://github.com/silentsignal/burp-requests)
 
-## SAML
+## OAuth/SAML
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
+* [Burp OAuth](https://github.com/dnet/burp-oauth)
 
 ## Vulnerability Specific
 
