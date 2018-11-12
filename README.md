@@ -59,6 +59,10 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [JSON array issues for Burp Suite](https://github.com/silentsignal/burp-json-array)
 * [Burp Retire JS](https://github.com/h3xstream/burp-retire-js)
 * [SOMEtime](https://github.com/linkedin/sometime)
+* [HTTPoxy Scanner](https://github.com/PortSwigger/httpoxy-scanner)
+* [ParrotNG](https://github.com/ikkisoft/ParrotNG)
+* [Error Message Checks](https://github.com/augustd/burp-suite-error-message-checks)
+* [Identity Crisis](https://github.com/EnableSecurity/Identity-Crisis)
 
 ## Beautifiers
 
@@ -84,6 +88,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ## OAuth/SAML
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
 * [Burp OAuth](https://github.com/dnet/burp-oauth)
+* [EsPReSSO](https://github.com/RUB-NDS/BurpSSOExtension)
 
 ## Vulnerability Specific
 
@@ -122,6 +127,14 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [Office OpenXML Editor](https://github.com/PortSwigger/office-open-xml-editor)
 
+### Insecure File Uploads
+
+* [HTTP file upload scanner](https://github.com/modzero/mod0BurpUploadScanner)
+
+### Directory Traversal
+
+* [Uploader](https://github.com/thec00n/Uploader)
+
 ## Web Application Firewall Evasion
 * [Bypasswaf](https://github.com/codewatchorg/bypasswaf)
 * [Random IP Address Header](https://github.com/PortSwigger/random-ip-address-header)
@@ -134,18 +147,26 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp SQLite logger](https://github.com/silentsignal/burp-sqlite-logger)
 * [Burp Git Version](https://github.com/silentsignal/burp-git-version)
 * [Burp Commentator](https://github.com/silentsignal/burp-commentator)
+* [Hackbar](https://github.com/d3vilbug/HackBar)
 
 ## Payload Generator
 * [CO2](https://github.com/JGillam/burp-co2))
+* [Bradamsa](https://github.com/ikkisoft/bradamsa)
 
 ## Cryptography
 
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 * [AES Burp](https://github.com/lgrangeia/aesburp)
+* [Crypto Attackeer](https://github.com/PortSwigger/crypto-attacker)
+## Web Services
 
-## Traffic Capture
+* [WCF-Binary-SOAP-Plug-In](https://github.com/GDSSecurity/WCF-Binary-SOAP-Plug-In)
+* [WSDL Wizard](https://github.com/SmeegeSec/WSDLWizard)
+
+## Traffic Analysis
 
 * [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension)
+* [Burp Suite GWT wrapper](https://github.com/dnet/burp-gwt-wrapper)
 
 ## iOS
 
@@ -157,9 +178,10 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burpa](https://github.com/0x4D31/burpa)
 * [Intruder Payloads](https://github.com/1N3/IntruderPayloads)
 * [Burp Uniqueness](https://github.com/silentsignal/burp-uniqueness)
+* [Sample Burp Suite extension: custom scanner checks](https://github.com/PortSwigger/example-scanner-checks)
 
 ## Burp Extension Training Resources
 
-* [Burp plugin development for java n00bs - Marc Wickenden)](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
+* [Burp plugin development for java n00bs - Marc Wickenden](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
 * [Developing Burp Suite Extensions - Doyensec](https://github.com/doyensec/burpdeveltraining)
 * [Writing your first Burp Suite extension - Portswigger](https://portswigger.net/burp/extender/writing-your-first-burp-suite-extension)
