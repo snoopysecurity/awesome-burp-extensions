@@ -32,7 +32,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 - [Traffic Capture](#traffic-capture)
 - [iOS](#ios)
 - [Misc](#misc)
-- [Training Resources](#training-resources)
+- [Burp Extension Training Resources](#training-resources)
 
 ## Scanners
 
@@ -57,7 +57,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Image Size](https://github.com/silentsignal/burp-image-size)
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
 * [JSON array issues for Burp Suite](https://github.com/silentsignal/burp-json-array)
-* [Burp retire js]https://github.com/h3xstream/burp-retire-js
+* [Burp Retire JS](https://github.com/h3xstream/burp-retire-js)
 * [SOMEtime](https://github.com/linkedin/sometime)
 
 ## Beautifiers
@@ -162,4 +162,4 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [Burp plugin development for java n00bs - Marc Wickenden)](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
 * [Developing Burp Suite Extensions - Doyensec](https://github.com/doyensec/burpdeveltraining)
-* [Writing your first Burp Suite extension - Portswigger]https://portswigger.net/burp/extender/writing-your-first-burp-suite-extension
+* [Writing your first Burp Suite extension - Portswigger](https://portswigger.net/burp/extender/writing-your-first-burp-suite-extension)
