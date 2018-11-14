@@ -76,6 +76,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp ASN1 Toolbox](https://github.com/silentsignal/burp-asn1)
 * [JSON JTree viewer for Burp Suite](https://github.com/silentsignal/burp-json-jtree)
 * [JSON Beautifier](https://github.com/NetSPI/JSONBeautifier)
+* [Browser Repeater](https://github.com/allfro/browserRepeater)
+* [GQL Parser](https://github.com/br3akp0int/GQLParser)
 
 ## Cloud Security
 
@@ -90,6 +92,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burpkit](https://github.com/allfro/BurpKit)
 * [Burp Requests](https://github.com/silentsignal/burp-requests)
 * [Burpy](https://github.com/debasishm89/burpy)
+* [Buby](https://github.com/tduehr/buby)
 
 ## OAuth/SAML
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
@@ -148,6 +151,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ### Insecure File Uploads
 
 * [HTTP file upload scanner](https://github.com/modzero/mod0BurpUploadScanner)
+* [ZIP File Raider](https://github.com/destine21/ZIPFileRaider)
 
 ### Directory Traversal
 
@@ -175,18 +179,21 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Hackvertor](https://github.com/hackvertor/hackvertor)
 * [Burp Replicator](https://github.com/portswigger/replicator)
 
-## Payload Generator
+## Payload Generator/Fuzzers
+
 * [CO2](https://github.com/JGillam/burp-co2)
 * [Bradamsa](https://github.com/ikkisoft/bradamsa)
 * [PayloadParser](https://github.com/infodel/burp.extension-payloadparser)
 * [Burp Luhn Payload Processor](https://github.com/EnableSecurity/burp-luhn-payload-processor)
 * [Gather Contacts](https://github.com/clr2of8/GatherContacts)
+* [Blazer](https://github.com/ikkisoft/blazer)
 
 ## Cryptography
 
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 * [AES Burp](https://github.com/lgrangeia/aesburp)
 * [Crypto Attackeer](https://github.com/PortSwigger/crypto-attacker)
+* [AES Payloads](https://github.com/PortSwigger/aes-payloads)
 
 ## Web Services
 
@@ -220,7 +227,6 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [Burp Rest API](https://github.com/vmware/burp-rest-api)
 * [Burpa](https://github.com/0x4D31/burpa)
-* [Intruder Payloads](https://github.com/1N3/IntruderPayloads)
 * [Burp Uniqueness](https://github.com/silentsignal/burp-uniqueness)
 * [Sample Burp Suite extension: custom scanner checks](https://github.com/PortSwigger/example-scanner-checks)
 * [Directory File Listing Parser Importer](https://github.com/SmeegeSec/Directory_File_Listing_Parser_Importer)
