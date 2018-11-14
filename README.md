@@ -231,7 +231,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Sample Burp Suite extension: custom scanner checks](https://github.com/PortSwigger/example-scanner-checks)
 * [Directory File Listing Parser Importer](https://github.com/SmeegeSec/Directory_File_Listing_Parser_Importer)
 * [Decoder Pro](https://github.com/Matanatr96/DecoderProBurpSuite)
-* [Burp Bing translator]https://github.com/yehgdotnet/burp-extention-bing-translator)
+* [Burp Bing translator](https://github.com/yehgdotnet/burp-extention-bing-translator)
 * [Similar Request Excluder](https://github.com/tijme/similar-request-excluder)
 
 ## Burp Extension Training Resources
