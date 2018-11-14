@@ -89,6 +89,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Python Scripter](https://github.com/portswigger/python-scripter)
 * [Burpkit](https://github.com/allfro/BurpKit)
 * [Burp Requests](https://github.com/silentsignal/burp-requests)
+* [Burpy](https://github.com/debasishm89/burpy)
 
 ## OAuth/SAML
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
@@ -100,6 +101,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ### Cross-site scripting
 
 * [XSS Validator](https://github.com/nVisium/xssValidator)
+* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin)
+* [Burp Hunter](https://github.com/mystech7/Burp-Hunter)
 
 ### Broken Access Control
 
@@ -135,6 +138,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [CO2](https://github.com/JGillam/burp-co2)
 * [SQLiPy](https://github.com/codewatchorg/sqlipy)
+* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin)
+
 ### XXE
 
 * [Office OpenXML Editor](https://github.com/PortSwigger/office-open-xml-editor)
@@ -155,6 +160,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ## Web Application Firewall Evasion
 * [Bypasswaf](https://github.com/codewatchorg/bypasswaf)
 * [Random IP Address Header](https://github.com/PortSwigger/random-ip-address-header)
+* [Burp Suite HTTP Smuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/)
 
 ## Logging and Notes
 * [Burp Notes](https://github.com/SpiderLabs/BurpNotesExtension)
@@ -167,11 +173,14 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Hackbar](https://github.com/d3vilbug/HackBar)
 * [Burp Suite Importer](https://github.com/SmeegeSec/Burp-Importer)
 * [Hackvertor](https://github.com/hackvertor/hackvertor)
+* [Burp Replicator](https://github.com/portswigger/replicator)
 
 ## Payload Generator
-* [CO2](https://github.com/JGillam/burp-co2))
+* [CO2](https://github.com/JGillam/burp-co2)
 * [Bradamsa](https://github.com/ikkisoft/bradamsa)
 * [PayloadParser](https://github.com/infodel/burp.extension-payloadparser)
+* [Burp Luhn Payload Processor](https://github.com/EnableSecurity/burp-luhn-payload-processor)
+* [Gather Contacts](https://github.com/clr2of8/GatherContacts)
 
 ## Cryptography
 
@@ -196,10 +205,16 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer)
 * [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer)
 * [Deflate Burp Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin)
+* [Brida](https://github.com/federicodotta/Brida)
 
 ## iOS
 
 * [CFURL Cache inspector for Burp Suite](https://github.com/silentsignal/burp-cfurl-cache)
+* [Brida](https://github.com/federicodotta/Brida)
+
+## Android
+
+* [Brida](https://github.com/federicodotta/Brida)
 
 ## Misc
 
@@ -209,9 +224,19 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Uniqueness](https://github.com/silentsignal/burp-uniqueness)
 * [Sample Burp Suite extension: custom scanner checks](https://github.com/PortSwigger/example-scanner-checks)
 * [Directory File Listing Parser Importer](https://github.com/SmeegeSec/Directory_File_Listing_Parser_Importer)
+* [Decoder Pro](https://github.com/Matanatr96/DecoderProBurpSuite)
+* [Burp Bing translator]https://github.com/yehgdotnet/burp-extention-bing-translator)
+* [Similar Request Excluder](https://github.com/tijme/similar-request-excluder)
 
 ## Burp Extension Training Resources
 
 * [Burp plugin development for java n00bs - Marc Wickenden](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
 * [Developing Burp Suite Extensions - Doyensec](https://github.com/doyensec/burpdeveltraining)
 * [Writing your first Burp Suite extension - Portswigger](https://portswigger.net/burp/extender/writing-your-first-burp-suite-extension)
+* [Burp Extension Writing - Sanoop Thomas](https://devilslab.in/files/Burp%20Extension%20Writing%20Workshop.pdf)
+* [Extending Burp with Python](https://www.owasp.org/images/9/9f/Extending-Burp-with-Python.pptx)
+* [Creating Burp Extensions in Python](https://blog.stalkr.net/2015/04/creating-burp-extensions-in-python.html)
+* [Burp Extensions in Python and Pentesting Custom Webservices - Neohapsis](https://labs.neohapsis.com/2013/09/16/burp-extensions-in-python-pentesting-custom-web-services/)
+* [Writing Burp Suite Marcos and Plugins - Pluralsight](https://www.pluralsight.com/courses/writing-burp-suite-macros-plugins)
+* [Extending Burp with Extensions - Chris Bush](http://blog.opensecurityresearch.com/2014/03/extending-burp.html)
+* [Burp Suite Extension Development series - Prakhar Prasad](https://prakharprasad.com/burp-suite-extension-development-series/)
