@@ -1,4 +1,4 @@
-# Awesome Burp Extensions
+# Awesome Burp Extensions  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Burp Extensions
 
 # Contributing
@@ -94,6 +94,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [XChromeLogger Decoder](https://portswigger.net/bappstore/a68f0a880362410baaf884ddb383fe4c)
 * [WebSphere Portlet State Decoder](https://portswigger.net/bappstore/49e9917c721e4abfa4c2540b07f35eb7)
 * [PDF Viewer](https://portswigger.net/bappstore/4b0cbd1e44da4212881cc1480ba1bc68)
+* [NTLM Challenge Decoder](https://portswigger.net/bappstore/30d095e075e64a109b8d12fc8281b5e3)
+
 
 ## Cloud Security
 
@@ -215,6 +217,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Suite Importer](https://github.com/SmeegeSec/Burp-Importer)
 * [Hackvertor](https://github.com/hackvertor/hackvertor)
 * [Burp Replicator](https://github.com/portswigger/replicator)
+* [Notes](https://portswigger.net/bappstore/b150353ea3d54f61bdc482a4a8470356)
 
 ## Payload Generator/Fuzzers
 
@@ -245,6 +248,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [POST2JSON](https://github.com/cyberisltd/POST2JSON/tree/3d6109a4749352849e5e7f27737e5384f78c4552)
 * [WCF Deserializer](https://portswigger.net/bappstore/1ddd8919e946459f9c1bb47eedb19376)
 * [Postman Integration](https://portswigger.net/bappstore/6ae9ede3630949748842a43518e840a7)
+* [OpenAPI Parser](https://portswigger.net/bappstore/6bf7574b632847faaaa4eb5e42f1757c)
 
 ## Traffic Analysis
 
@@ -296,6 +300,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Replicator](https://portswigger.net/bappstore/56cf924977874104ac35e52962a9a553)
 * [Report To Elastic Search](https://portswigger.net/bappstore/8493f7ae00aa4e01b6ffbbd1b8381ccc)
 * [Qualys WAS](https://portswigger.net/bappstore/3b0105b95e4645a7929faa0cbda1df28)
+* [NMAP Parser](https://portswigger.net/bappstore/0780c0a9f12e47848a94ac3e43dccbd9)
 
 ## Burp Extension Training Resources
 
