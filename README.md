@@ -14,12 +14,12 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 # Content
 - [Scanners](#scanners)
 - [Beautifiers](#beautifiers)
-- [Cloud Security](#cloudsecurity)
+- [Cloud Security](#cloud-security)
 - [Scripting](#scripting)
-- [OAuth/SAML](#oauthsaml)
+- [OAuth/SSO](#oauth/sso)
 - [Vulnerability Specific](#vulnerability-specific)
     - [Cross-site scripting](#cross-site-scripting)
-    - [Broken Access Control](#broken-acess-control)
+    - [Broken Access Control](#broken-access-control)
     - [Cross-Site Request Forgery](#cross-site-request-forgery)
     - [Deserialization](#deserialization)
     - [Sensitive Data Exposure](#sensitive-data-exposure)
@@ -30,12 +30,12 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
     - [Session Management](#session-management)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
-- [Payload Generator](#payload-generator)
+- [Payload Generator/Fuzzers](#payload-generator/fuzzers)
 - [Cryptography](#cryptography)
-- [Traffic Capture](#traffic-capture)
+- [Traffic Analysis](#traffic-analysis)
 - [iOS](#ios)
 - [Misc](#misc)
-- [Burp Extension Training Resources](#training-resources)
+- [Burp Extension Training Resources](#burp-extension-training-resources)
 
 ## Scanners
 
@@ -68,6 +68,19 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Identity Crisis](https://github.com/EnableSecurity/Identity-Crisis)
 * [CSP-Auditor](https://github.com/GoSecure/csp-auditor)
 * [Burp Suite GWT Scan](https://github.com/augustd/burp-suite-gwt-scan)
+* [Minesweeper](https://github.com/codingo/Minesweeper)
+* [Add & Track Custom Issues](https://github.com/JAMESM0RR1S/Add-And-Track-Custom-Issues)
+* [Yara](https://portswigger.net/bappstore/11e2ec6923f2497db9c18ec92492c63a)
+* [WordPress Scanner](https://portswigger.net/bappstore/77a12b2966844f04bba032de5744cd35)
+* [Web Cache Deception Burp Extension](https://portswigger.net/bappstore/7c1ca94a61474d9e897d307c858d52f0)
+* [UUID Detector](https://portswigger.net/bappstore/65f32f209a72480ea5f1a0dac4f38248)
+* [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d)
+* [Software Vulnerability Scanner](https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb)
+* [Scan Check Builder](https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f)
+* [Scan manual insertion point](https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f)
+* [Reverse Proxy Detector](https://portswigger.net/bappstore/a112997070354d249b64b4cf68eabc04)
+* [SRI Check](https://github.com/bellma101/sri-check)
+* [Reflected File Download Checker](https://portswigger.net/bappstore/34cd4392e7e04999b9ca0cc91f58886c)
 
 ## Beautifiers
 
@@ -78,6 +91,9 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [JSON Beautifier](https://github.com/NetSPI/JSONBeautifier)
 * [Browser Repeater](https://github.com/allfro/browserRepeater)
 * [GQL Parser](https://github.com/br3akp0int/GQLParser)
+* [XChromeLogger Decoder](https://portswigger.net/bappstore/a68f0a880362410baaf884ddb383fe4c)
+* [WebSphere Portlet State Decoder](https://portswigger.net/bappstore/49e9917c721e4abfa4c2540b07f35eb7)
+* [PDF Viewer](https://portswigger.net/bappstore/4b0cbd1e44da4212881cc1480ba1bc68)
 
 ## Cloud Security
 
@@ -93,11 +109,17 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Burp Requests](https://github.com/silentsignal/burp-requests)
 * [Burpy](https://github.com/debasishm89/burpy)
 * [Buby](https://github.com/tduehr/buby)
+* [Burpee](https://github.com/GDSSecurity/burpee)
+* [Burp Jython Tab](https://github.com/mwielgoszewski/burp-jython-tab)
+* [Reissue Request Scripter](https://portswigger.net/bappstore/6e0b53d8c801471c9dc614a016d8a20d)
 
-## OAuth/SAML
+## OAuth/SSO
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
 * [Burp OAuth](https://github.com/dnet/burp-oauth)
 * [EsPReSSO](https://github.com/RUB-NDS/BurpSSOExtension)
+* [SAML Encoder/Decoder](https://portswigger.net/bappstore/9ff11c976383491b976389ce23091ee3)
+* [SAML Editor](https://portswigger.net/bappstore/32c38cd10ef44c1cbca9d54483f78e88)
+* [PeopleSoft Token Extractor](https://portswigger.net/bappstore/df04d7d1af004ed6b50c555c4920232d)
 
 ## Vulnerability Specific
 
@@ -122,12 +144,14 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [CSRF Scanner](https://github.com/ah8r/csrf)
 * [CSurfer](https://github.com/asaafan/CSurfer)
+* [Additional CSRF Checks/EasyCSRF](https://github.com/0ang3el/EasyCSRF)
 
 ### Deserialization
 
 * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
 * [Java Serial Killer](https://github.com/NetSPI/JavaSerialKiller)
 * [BurpJDSer-ng](https://github.com/IOActive/BurpJDSer-ng)
+* [PHP Object Injection Check](https://portswigger.net/bappstore/24dab228311049d89a27a4d721e17ef7)
 
 ### Sensitive Data Exposure
 
@@ -136,12 +160,14 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [PDF Metadata](https://github.com/luh2/PDFMetadata)
 * [SpyDir](https://github.com/aur3lius-dev/SpyDir)
 * [Burp Hash](https://github.com/burp-hash/burp-hash)
+* [Param Miner](https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943)
 
 ### SQL Injection
 
 * [CO2](https://github.com/JGillam/burp-co2)
 * [SQLiPy](https://github.com/codewatchorg/sqlipy)
 * [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin)
+* [SQLiPy Sqlmap Integration](https://portswigger.net/bappstore/f154175126a04bfe8edc6056f340f52e)
 
 ### XXE
 
@@ -152,6 +178,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [HTTP file upload scanner](https://github.com/modzero/mod0BurpUploadScanner)
 * [ZIP File Raider](https://github.com/destine21/ZIPFileRaider)
+* [Upload Scanner](https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa)
 
 ### Directory Traversal
 
@@ -160,11 +187,21 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 ### Session Management
 
 * [Session Timeout Test](https://github.com/augustd/burp-suite-session-timeout-test)
+* [WAFDetect](https://portswigger.net/bappstore/12bef6b7607e46cf965c16f76e905a4c)
+* [TokenJar](https://portswigger.net/bappstore/d9e05bf81c8f4bae8a5b0b01955c5578)
+* [Token Incrementor](https://portswigger.net/bappstore/ae166662024149f981bb6920cf3c8960)
+* [Token Extractor](https://portswigger.net/bappstore/f24211fa6fcd4bbea6b21f99c5cad27a)
+* [Session Auth](https://portswigger.net/bappstore/9cbdeea2d3744e5ab0f2d08632438985)
+* [Session Timeout Test](https://portswigger.net/bappstore/c4bfd29882974712a1d69c6d8f05874e)
+* [Session Tracking Checks](https://portswigger.net/bappstore/1ab99dc6b61b45469759fdc38f371278)
 
 ## Web Application Firewall Evasion
 * [Bypasswaf](https://github.com/codewatchorg/bypasswaf)
 * [Random IP Address Header](https://github.com/PortSwigger/random-ip-address-header)
 * [Burp Suite HTTP Smuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/)
+* [What-The-WAF](https://portswigger.net/bappstore/5da470c526ea4661a82187ec3e0f94aa)
+* [WAF Cookie Fetcher](https://portswigger.net/bappstore/0f6ce51c1cb349689ecb4025e8db060a)
+* [WAFDetect](https://portswigger.net/bappstore/12bef6b7607e46cf965c16f76e905a4c)
 
 ## Logging and Notes
 * [Burp Notes](https://github.com/SpiderLabs/BurpNotesExtension)
@@ -183,10 +220,12 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 
 * [CO2](https://github.com/JGillam/burp-co2)
 * [Bradamsa](https://github.com/ikkisoft/bradamsa)
-* [PayloadParser](https://github.com/infodel/burp.extension-payloadparser)
+* [Payload Parser](https://github.com/infodel/burp.extension-payloadparser)
 * [Burp Luhn Payload Processor](https://github.com/EnableSecurity/burp-luhn-payload-processor)
 * [Gather Contacts](https://github.com/clr2of8/GatherContacts)
 * [Blazer](https://github.com/ikkisoft/blazer)
+* [Wordlist Extractor](https://portswigger.net/bappstore/21df56baa03d499c8439018fe075d3d7)
+* [PsychoPATH](https://portswigger.net/bappstore/554059e593ce446585574b92344b9675)
 
 ## Cryptography
 
@@ -204,6 +243,8 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [JSON Decoder](https://github.com/PortSwigger/json-decoder)
 * [WSDLer](https://github.com/NetSPI/Wsdler)
 * [POST2JSON](https://github.com/cyberisltd/POST2JSON/tree/3d6109a4749352849e5e7f27737e5384f78c4552)
+* [WCF Deserializer](https://portswigger.net/bappstore/1ddd8919e946459f9c1bb47eedb19376)
+* [Postman Integration](https://portswigger.net/bappstore/6ae9ede3630949748842a43518e840a7)
 
 ## Traffic Analysis
 
@@ -213,6 +254,10 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer)
 * [Deflate Burp Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin)
 * [Brida](https://github.com/federicodotta/Brida)
+* [burp-protobuf-decoder](https://github.com/mwielgoszewski/burp-protobuf-decoder)
+* [Pcap Importer](https://portswigger.net/bappstore/01da4fdd9f6e4e12b0622fbdaa2dd26d)
+* [Proxy Auto Config](https://portswigger.net/bappstore/7b3eae07aa724196ab85a8b64cd095d1)
+* [Proxy Action Rules](https://portswigger.net/bappstore/01376d8325c846b988730e9417016039)
 
 ## iOS
 
@@ -233,6 +278,24 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
 * [Decoder Pro](https://github.com/Matanatr96/DecoderProBurpSuite)
 * [Burp Bing translator](https://github.com/yehgdotnet/burp-extention-bing-translator)
 * [Similar Request Excluder](https://github.com/tijme/similar-request-excluder)
+* [jython-burp-api](https://github.com/mwielgoszewski/jython-burp-api)
+* [Jython Burp Extensions](https://github.com/mwielgoszewski/jython-burp-extensions)
+* [Add Custom Header](https://github.com/lorenzog/burpAddCustomHeader)
+* [WebInspect Connector](https://github.com/portswigger/webinspect-connector)
+* [Wayback Machine](https://portswigger.net/bappstore/5c7c516c690345c19fbf55b2b2ebeb76)
+* [ThreadFix](https://portswigger.net/bappstore/0b0100a98b1c4a0e927f34eac9d01afe)
+* [Target Redirector](https://portswigger.net/bappstore/d938ed20acbe4cd9889aa06bd23ba7e1)
+* [Site Map Extractor](https://portswigger.net/bappstore/f991b67d4ef94f3c8692c3edca06583e)
+* [Site Map Fetcher](https://portswigger.net/bappstore/93bbecc3da434ef7ba5a5b2b98265169)
+* [Similar Request Excluder](https://portswigger.net/bappstore/9ecd51851baf4ae6b69c6a951257387a)
+* [Request Highlighter](https://portswigger.net/bappstore/11729a617d8d4d3b87c82e34b71885c3)
+* [Request Minimizer](https://portswigger.net/bappstore/cc16f37549ff416b990d4312490f5fd1)
+* [Request Randomizer](https://portswigger.net/bappstore/36d6d7e35dac489b976c2f120ce34ae2)
+* [Request Timer](https://portswigger.net/bappstore/56675bcf2a804d3096465b2868ec1d65)
+* [Response Clusterer](https://portswigger.net/bappstore/e63f09f290ad4d9ea20031e84767b303)
+* [Replicator](https://portswigger.net/bappstore/56cf924977874104ac35e52962a9a553)
+* [Report To Elastic Search](https://portswigger.net/bappstore/8493f7ae00aa4e01b6ffbbd1b8381ccc)
+* [Qualys WAS](https://portswigger.net/bappstore/3b0105b95e4645a7929faa0cbda1df28)
 
 ## Burp Extension Training Resources
 
