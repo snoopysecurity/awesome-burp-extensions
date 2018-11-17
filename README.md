@@ -29,6 +29,7 @@ Awesome burp extensions is an amazing list for people who wants to spice up thei
     - [Insecure File Uploads](#insecure-file-uploads)
     - [Directory Traversal](#directory-traversal)
     - [Session Management](#session-management)
+    - [Command Injection](#command-injection)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
 - [Payload Generator/Fuzzers](#payload-generator/fuzzers)
