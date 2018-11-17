@@ -405,3 +405,9 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Writing Burp Suite Marcos and Plugins - Pluralsight](https://www.pluralsight.com/courses/writing-burp-suite-macros-plugins)
 * [Extending Burp with Extensions - Chris Bush](http://blog.opensecurityresearch.com/2014/03/extending-burp.html)
 * [Burp Suite Extension Development series - Prakhar Prasad](https://prakharprasad.com/burp-suite-extension-development-series/)
+* [BSidesCHS 2015: Building Burp Extensions - Jason Gillam](https://www.youtube.com/watch?v=v7Yjdi9NvOY)
+* [Intro to Burp Extender Jython - nVisium](https://www.youtube.com/watch?v=4f05lNULX1I)
+* [Intro to Burp Extender Java - nVisium](https://www.youtube.com/watch?v=wR1ENja0lI0)
+* [Web Penetration Testing with Burp and the CO2 Extension - Jason Gillam](https://www.youtube.com/watch?v=ez9KSqlYoWU)
+
+
