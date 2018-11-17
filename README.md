@@ -32,10 +32,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
     - [Command Injection](#command-injection)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
-- [Payload Generator/Fuzzers](#payload-generator/fuzzers)
+- [Payload Generators and Fuzzers](#payload-generators-and-fuzzers)
 - [Cryptography](#cryptography)
-- [Traffic Analysis](#traffic-analysis)
-- [Mobile Security](#mobile-security)
 - [Tool Integration](#tool-integration)
 - [Misc](#misc)
 - [Burp Extension Training Resources](#burp-extension-training-resources)
@@ -113,6 +111,10 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [JSON Decoder](https://portswigger.net/bappstore/ceed5b1568ba4b92abecce0dff1e1f2c)
 * [MessagePack](https://portswigger.net/bappstore/c199ec3330864d548ff7d6bf761960ba)
 * [Fast Infoset Tester](https://portswigger.net/bappstore/2f640c88e0394bb09e788378f1bcc80f)
+* [burp-protobuf-decoder](https://github.com/mwielgoszewski/burp-protobuf-decoder)
+* [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer)
+* [Deflate Burp Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin)
+* [Burp Suite GWT wrapper](https://github.com/dnet/burp-gwt-wrapper)
 
 ## Cloud Security
 
@@ -203,6 +205,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Java Serialized Payloads](https://portswigger.net/bappstore/bc737909a5d742eab91544705c14d34f)
 * [Freddy, Deserialization Bug Finder](https://portswigger.net/bappstore/ae1cce0c6d6c47528b4af35faebc3ab3)
 * [CustomDeserializer](https://portswigger.net/bappstore/84ff4dceaae14e84990c6f3f7fe999bd)
+* [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer)
 
 ### Sensitive Data Exposure
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster)
@@ -282,7 +285,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Burp Response Clusterer](https://github.com/modzero/burp-ResponseClusterer)
 * [Burp Collect500](https://github.com/floyd-fuh/burp-Collect500)
 
-## Payload Generator/Fuzzers
+## Payload Generators and Fuzzers
 
 *Wordlist/payload generators and fuzzers.*
 
@@ -323,23 +326,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Postman Integration](https://portswigger.net/bappstore/6ae9ede3630949748842a43518e840a7)
 * [OpenAPI Parser](https://portswigger.net/bappstore/6bf7574b632847faaaa4eb5e42f1757c)
 * [Content Type Converter](https://github.com/NetSPI/Burp-Extensions/tree/master/ContentTypeConverter)
-
-## Traffic Analysis
-
-*Extensions useful for assessing Web Services*
-
 * [Burp Non HTTP Extension](https://github.com/summitt/Burp-Non-HTTP-Extension)
-* [Burp Suite GWT wrapper](https://github.com/dnet/burp-gwt-wrapper)
-* [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer)
-* [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer)
-* [Deflate Burp Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin)
-* [Brida](https://github.com/federicodotta/Brida)
-* [burp-protobuf-decoder](https://github.com/mwielgoszewski/burp-protobuf-decoder)
-* [Pcap Importer](https://portswigger.net/bappstore/01da4fdd9f6e4e12b0622fbdaa2dd26d)
-* [Proxy Auto Config](https://portswigger.net/bappstore/7b3eae07aa724196ab85a8b64cd095d1)
-* [Proxy Action Rules](https://portswigger.net/bappstore/01376d8325c846b988730e9417016039)
-* [Brida](https://github.com/federicodotta/Brida)
-
 
 ## Tool Integration
 
@@ -356,6 +343,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [ElasticBurp](https://portswigger.net/bappstore/67f5c31f93d04ad3a3b0a1808b3648fa)
 * [Dradis Framework](https://portswigger.net/bappstore/c1be8787ebdd45f58c091f6ae30f1af2)
 * [Burp Dirbuster](https://github.com/vulnersCom/burp-Dirbuster)
+* [Pcap Importer](https://portswigger.net/bappstore/01da4fdd9f6e4e12b0622fbdaa2dd26d)
+* [Brida](https://github.com/federicodotta/Brida)
 
 ## Misc
 
@@ -399,6 +388,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Decompressor](https://portswigger.net/bappstore/ef36a66ebeb04412a52ffc17c2f5e15e)
 * [Custom Parameter Handler](https://portswigger.net/bappstore/a0c0cd68ab7c4928b3bf0a9ad48ec8c7)
 * [CFURL Cache inspector for Burp Suite](https://github.com/silentsignal/burp-cfurl-cache)
+* [Proxy Auto Config](https://portswigger.net/bappstore/7b3eae07aa724196ab85a8b64cd095d1)
+* [Proxy Action Rules](https://portswigger.net/bappstore/01376d8325c846b988730e9417016039)
 
 ## Burp Extension Training Resources
 
