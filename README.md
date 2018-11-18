@@ -42,12 +42,12 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Passive and Active scan plugins.*
 
-* [ActiveScan++](https://github.com/albinowax/ActiveScanPlusPlus)
-* [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner)
-* [Additional Scanner checks](https://github.com/portswigger/additional-scanner-checks)
-* [CSRF Scanner](https://github.com/ah8r/csrf)
-* [HTML5 Auditor](https://github.com/PortSwigger/html5-auditor)
-* [Software Version Reporter](https://github.com/augustd/burp-suite-software-version-checks)
+* [ActiveScan++](https://github.com/albinowax/ActiveScanPlusPlus) - ActiveScan++ extends Burp Suite's active and passive scanning capabilities.
+* [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner) - Vulnerability scanner based on vulners.com search API.
+* [Additional Scanner checks](https://github.com/portswigger/additional-scanner-checks) - Collection of scanner checks missing in Burp.
+* [CSRF Scanner](https://github.com/ah8r/csrf) - CSRF Scanner Extension for Burp Suite Pro.
+* [HTML5 Auditor](https://github.com/PortSwigger/html5-auditor) - This extension checks for usage of HTML5 features that have potential security risks.
+* [Software Version Reporter](https://github.com/augustd/burp-suite-software-version-checks) - Burp extension to passively scan for applications revealing software version numbers.
 * [J2EEScan](https://github.com/ilmila/J2EEScan)
 * [Java Deserialization Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
 * [CSP Bypass](https://github.com/moloch--/CSP-Bypass)
