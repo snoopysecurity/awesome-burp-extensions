@@ -144,7 +144,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 ## OAuth and SSO
 
-*Extensions for assessing Single sign-on (SSO) and OAuth related applications. *
+*Extensions for assessing Single sign-on (SSO) and OAuth related applications.*
 
 * [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
 * [Burp OAuth](https://github.com/dnet/burp-oauth)
