@@ -415,4 +415,4 @@ request and response processed by Burp.
 * [Intro to Burp Extender Java - nVisium](https://www.youtube.com/watch?v=wR1ENja0lI0)
 * [Web Penetration Testing with Burp and the CO2 Extension - Jason Gillam](https://www.youtube.com/watch?v=ez9KSqlYoWU)
 * [Developing Burp Suite Extensions with Luca Carettoni - eLearnSecurity](https://www.youtube.com/watch?v=yCnPMuan2fQ)
-
+* [Quick start your Burp Suite extensions Jython and automation - Marius Nepomuceno](https://www.youtube.com/watch?v=LEkqKOijp7Q)
