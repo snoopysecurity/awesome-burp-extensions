@@ -48,48 +48,47 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [CSRF Scanner](https://github.com/ah8r/csrf) - CSRF Scanner Extension for Burp Suite Pro.
 * [HTML5 Auditor](https://github.com/PortSwigger/html5-auditor) - This extension checks for usage of HTML5 features that have potential security risks.
 * [Software Version Reporter](https://github.com/augustd/burp-suite-software-version-checks) - Burp extension to passively scan for applications revealing software version numbers.
-* [J2EEScan](https://github.com/ilmila/J2EEScan)
-* [Java Deserialization Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
-* [CSP Bypass](https://github.com/moloch--/CSP-Bypass)
-* [Burp Sentinel](https://github.com/dobin/BurpSentinel)
-* [Backslash Powered Scanner](https://github.com/PortSwigger/backslash-powered-scanner)
-* [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere)
-* [Distribute Damage](https://github.com/PortSwigger/distribute-damage)
-* [Burp Molly Pack](https://github.com/yandex/burp-molly-pack)
-* [Noopener Burp Extension](https://github.com/snoopysecurity/Noopener-Burp-Extension)
-* [ActiveScan3Plus](https://github.com/silentsignal/ActiveScan3Plus)
-* [Burp Image Size](https://github.com/silentsignal/burp-image-size)
-* [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
-* [JSON array issues for Burp Suite](https://github.com/silentsignal/burp-json-array)
-* [Burp Retire JS](https://github.com/h3xstream/burp-retire-js)
-* [SOMEtime](https://github.com/linkedin/sometime)
-* [HTTPoxy Scanner](https://github.com/PortSwigger/httpoxy-scanner)
-* [ParrotNG](https://github.com/ikkisoft/ParrotNG)
-* [Error Message Checks](https://github.com/augustd/burp-suite-error-message-checks)
-* [Identity Crisis](https://github.com/EnableSecurity/Identity-Crisis)
-* [CSP Auditor](https://github.com/GoSecure/csp-auditor)
-* [Burp Suite GWT Scan](https://github.com/augustd/burp-suite-gwt-scan)
-* [Minesweeper](https://github.com/codingo/Minesweeper)
-* [Add & Track Custom Issues](https://github.com/JAMESM0RR1S/Add-And-Track-Custom-Issues)
-* [Yara](https://portswigger.net/bappstore/11e2ec6923f2497db9c18ec92492c63a)
-* [WordPress Scanner](https://portswigger.net/bappstore/77a12b2966844f04bba032de5744cd35)
-* [Web Cache Deception Burp Extension](https://portswigger.net/bappstore/7c1ca94a61474d9e897d307c858d52f0)
-* [UUID Detector](https://portswigger.net/bappstore/65f32f209a72480ea5f1a0dac4f38248)
-* [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d)
-* [Software Vulnerability Scanner](https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb)
-* [Scan Check Builder](https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f)
-* [Scan Manual Insertion Point](https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f)
-* [Reverse Proxy Detector](https://portswigger.net/bappstore/a112997070354d249b64b4cf68eabc04)
-* [SRI Check](https://github.com/bellma101/sri-check)
-* [Reflected File Download Checker](https://portswigger.net/bappstore/34cd4392e7e04999b9ca0cc91f58886c)
-* [Length Extension Attacks](https://portswigger.net/bappstore/f156669cae8d4c10a3cd9d0b5270bcf6)
-* [Headers Analyzer](https://portswigger.net/bappstore/8b4fe2571ec54983b6d6c21fbfe17cb2)
-* [Heartbleed](https://portswigger.net/bappstore/d405150b57e54887b1dcfa563b7c0b6f)
-* [HTTPoxy Scanner](https://portswigger.net/bappstore/9c9877825cbd428bab27a25d0ea17178)
-* [Image Size Issues](https://portswigger.net/bappstore/1b602a9ae78a4ba4bc9f7b2c405a2b4e)
-* [CMS Scanner](https://portswigger.net/bappstore/1bf95d0be40c447b94981f5696b1a18e)
-* [Distribute Damage](https://portswigger.net/bappstore/543ab7a08d954390bd1a5f4253d3763b)
-* [Detect Dynamic JS](https://portswigger.net/bappstore/4a657674ebe3410b92280613aa512304)
+* [J2EEScan](https://github.com/ilmila/J2EEScan) - J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications.
+* [Java Deserialization Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner) - All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
+* [CSP Bypass](https://github.com/moloch--/CSP-Bypass) - A Burp Plugin for Detecting Weaknesses in Content Security Policies.
+* [Burp Sentinel](https://github.com/dobin/BurpSentinel) - GUI Burp Plugin to ease discovering of security holes in web applications.
+* [Backslash Powered Scanner](https://github.com/PortSwigger/backslash-powered-scanner) - Finds unknown classes of injection vulnerabilities. 
+* [Collaborator Everywhere](https://github.com/PortSwigger/collaborator-everywhere) - A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
+* [Distribute Damage](https://github.com/PortSwigger/distribute-damage) - Evenly distributes scanner load across targets.
+* [Burp Molly Pack](https://github.com/yandex/burp-molly-pack) - Security checks pack for Burp Suite.
+* [Noopener Burp Extension](https://github.com/snoopysecurity/Noopener-Burp-Extension) - Find Target=_blank values within web pages that are set without noopener and noreferrer attributes.
+* [ActiveScan3Plus](https://github.com/silentsignal/ActiveScan3Plus) - Modified version of ActiveScan++ Burp Suite extension.
+* [Burp Image Size](https://github.com/silentsignal/burp-image-size) - Image size issues plugin for Burp Suite.
+* [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid) - UUID issues for Burp Suite.
+* [JSON array issues for Burp Suite](https://github.com/silentsignal/burp-json-array) - JSON Array issues plugin for Burp Suite.
+* [Burp Retire JS](https://github.com/h3xstream/burp-retire-js) - Burp/ZAP/Maven extension that integrate Retire.js repository to find vulnerable Javascript libraries.
+* [SOMEtime](https://github.com/linkedin/sometime) - A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities.
+* [HTTPoxy Scanner](https://github.com/PortSwigger/httpoxy-scanner) - A Burp Suite extension that checks for the HTTPoxy vulnerability.
+* [ParrotNG](https://github.com/ikkisoft/ParrotNG) - ParrotNG is a tool capable of identifying Adobe Flex applications (SWF) vulnerable to CVE-2011-2461.
+* [Error Message Checks](https://github.com/augustd/burp-suite-error-message-checks) - Burp Suite extension to passively scan for applications revealing server error messages.
+* [Identity Crisis](https://github.com/EnableSecurity/Identity-Crisis) - A Burp Suite extension that checks if a particular URL responds differently to various User-Agent headers.
+* [CSP Auditor](https://github.com/GoSecure/csp-auditor) - Burp and ZAP plugin to analyse Content-Security-Policy headers or generate template CSP configuration from crawling a Website/
+* [Burp Suite GWT Scan](https://github.com/augustd/burp-suite-gwt-scan) - Burp Suite plugin identifies insertion points for GWT (Google Web Toolkit) requests.
+* [Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 14000+ malicious cryptocurrency mining domains (cryptojacking).
+* [Add & Track Custom Issues](https://github.com/JAMESM0RR1S/Add-And-Track-Custom-Issues) - This extension allows custom scan issues to be added and tracked within Burp. 
+* [Yara](https://portswigger.net/bappstore/11e2ec6923f2497db9c18ec92492c63a) - This extension allows you to perform on-demand Yara scans of websites within the Burp interface based on custom Yara rules that you write or obtain. 
+* [WordPress Scanner](https://portswigger.net/bappstore/77a12b2966844f04bba032de5744cd35) - Find known vulnerabilities in WordPress plugins and themes using WPScan database.
+* [Web Cache Deception Burp Extension](https://portswigger.net/bappstore/7c1ca94a61474d9e897d307c858d52f0) - This extension tests applications for the Web Cache Deception vulnerability.
+* [UUID Detector](https://portswigger.net/bappstore/65f32f209a72480ea5f1a0dac4f38248) - This extension passively reports UUID/GUIDs observed within HTTP requests.
+* [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d) - This extension enables Burp to scan for SSL vulnerabilities.
+* [Software Vulnerability Scanner](https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb) - This extension scans for vulnerabilities in detected software versions using the Vulners.com API.
+* [Scan Check Builder](https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f) - This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection. 
+* [Scan Manual Insertion Point](https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f) - This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection. 
+* [Reverse Proxy Detector](https://portswigger.net/bappstore/a112997070354d249b64b4cf68eabc04) - This extension detects reverse proxy servers.
+* [SRI Check](https://github.com/bellma101/sri-check) - A Burp Suite extension for identifying missing Subresource Integrity attributes.
+* [Reflected File Download Checker](https://portswigger.net/bappstore/34cd4392e7e04999b9ca0cc91f58886c) - This extension checks for reflected file downloads.
+* [Length Extension Attacks](https://portswigger.net/bappstore/f156669cae8d4c10a3cd9d0b5270bcf6) - his extension lets you perform hash length extension attacks on weak signature mechanisms.
+* [Headers Analyzer](https://portswigger.net/bappstore/8b4fe2571ec54983b6d6c21fbfe17cb2) - This extension adds a passive scan check to report security issues in HTTP headers.
+* [Heartbleed](https://portswigger.net/bappstore/d405150b57e54887b1dcfa563b7c0b6f) - This extension adds a new tab to Burp's Suite main UI allowing a server to be tested for the Heartbleed bug. If the server is vulnerable, data retrieved from the server's memory will be dumped and viewed.
+* [Image Size Issues](https://portswigger.net/bappstore/1b602a9ae78a4ba4bc9f7b2c405a2b4e) - This extension passively detects potential denial of service attacks due to the size of an image being specified in request parameters.
+* [CMS Scanner](https://portswigger.net/bappstore/1bf95d0be40c447b94981f5696b1a18e) - An active scan extension for Burp that provides supplemental coverage when testing popular content management systems.
+* [Distribute Damage](https://portswigger.net/bappstore/543ab7a08d954390bd1a5f4253d3763b) - Designed to make Burp evenly distribute load across multiple scanner targets, this extension introduces a per-host throttle and a context menu to trigger scans from. 
+* [Detect Dynamic JS](https://portswigger.net/bappstore/4a657674ebe3410b92280613aa512304) - This extension compares JavaScript files with each other to detect dynamically generated content and content that is only accessible when the user is authenticated.
 
 ## Beautifiers and Decoders
 
