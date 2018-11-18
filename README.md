@@ -94,52 +94,52 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Extensions related to beautifying and decoding data formats.*
 
-* [.NET Beautifier](https://github.com/allfro/dotNetBeautifier) 
-* [JS Beautifier](https://github.com/irsdl/BurpSuiteJSBeautifier) 
-* [Burp ASN1 Toolbox](https://github.com/silentsignal/burp-asn1)
-* [JSON JTree viewer for Burp Suite](https://github.com/silentsignal/burp-json-jtree)
-* [JSON Beautifier](https://github.com/NetSPI/JSONBeautifier)
-* [Browser Repeater](https://github.com/allfro/browserRepeater)
-* [GQL Parser](https://github.com/br3akp0int/GQLParser)
-* [XChromeLogger Decoder](https://portswigger.net/bappstore/a68f0a880362410baaf884ddb383fe4c)
-* [WebSphere Portlet State Decoder](https://portswigger.net/bappstore/49e9917c721e4abfa4c2540b07f35eb7)
-* [PDF Viewer](https://portswigger.net/bappstore/4b0cbd1e44da4212881cc1480ba1bc68)
-* [NTLM Challenge Decoder](https://portswigger.net/bappstore/30d095e075e64a109b8d12fc8281b5e3)
-* [JCryption Handler](https://portswigger.net/bappstore/fe2a5a42985b4ac8b1801a09b670758f)
-* [JSWS Parser](https://portswigger.net/bappstore/1d1b8fd9be354c64a5887f25fc271e56)
-* [JSON Decoder](https://portswigger.net/bappstore/ceed5b1568ba4b92abecce0dff1e1f2c)
-* [MessagePack](https://portswigger.net/bappstore/c199ec3330864d548ff7d6bf761960ba)
-* [Fast Infoset Tester](https://portswigger.net/bappstore/2f640c88e0394bb09e788378f1bcc80f)
-* [burp-protobuf-decoder](https://github.com/mwielgoszewski/burp-protobuf-decoder)
-* [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer)
-* [Deflate Burp Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin)
-* [Burp Suite GWT wrapper](https://github.com/dnet/burp-gwt-wrapper)
+* [.NET Beautifier](https://github.com/allfro/dotNetBeautifier) - A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).
+* [JS Beautifier](https://github.com/irsdl/BurpSuiteJSBeautifier) - Burp Suite JS Beautifier 
+* [Burp ASN1 Toolbox](https://github.com/silentsignal/burp-asn1) - ASN.1 toolbox for Burp Suite.
+* [JSON JTree viewer for Burp Suite](https://github.com/silentsignal/burp-json-jtree) - JSON JTree viewer for Burp Suite.
+* [JSON Beautifier](https://github.com/NetSPI/JSONBeautifier) - JSON Beautifier for Burp written in Java
+* [Browser Repeater](https://github.com/allfro/browserRepeater) - BurpSuite extension for Repeater tool that renders responses in a real browser.
+* [GQL Parser](https://github.com/br3akp0int/GQLParser) - A repository for GraphQL Extension for Burp Suite
+* [XChromeLogger Decoder](https://portswigger.net/bappstore/a68f0a880362410baaf884ddb383fe4c) - his extension adds a new tab in the HTTP message editor to display X-ChromeLogger-Data in decoded form.
+* [WebSphere Portlet State Decoder](https://portswigger.net/bappstore/49e9917c721e4abfa4c2540b07f35eb7) - This extension displays the decoded XML state of a WebSphere Portlet in a new tab when the request is viewed.
+* [PDF Viewer](https://portswigger.net/bappstore/4b0cbd1e44da4212881cc1480ba1bc68) - This extension adds a tab to the HTTP message viewer to render PDF files in responses.
+* [NTLM Challenge Decoder](https://portswigger.net/bappstore/30d095e075e64a109b8d12fc8281b5e3) - This extension decodes NTLM SSP headers. 
+* [JCryption Handler](https://portswigger.net/bappstore/fe2a5a42985b4ac8b1801a09b670758f) - This extension provides a way to perform manual and/or automatic Security Assessment for Web Applications that using JCryption JavaScript library to encrypt data sent through HTTP methods (GET and POST).
+* [JSWS Parser](https://portswigger.net/bappstore/1d1b8fd9be354c64a5887f25fc271e56) - This extension can be used to parse a response containing a JavaScript Web Service Proxy (JSWS) and generate JSON requests for all supported methods.
+* [JSON Decoder](https://portswigger.net/bappstore/ceed5b1568ba4b92abecce0dff1e1f2c) - This extension adds a new tab to Burp's HTTP message editor, and displays JSON messages in decoded form.
+* [MessagePack](https://portswigger.net/bappstore/c199ec3330864d548ff7d6bf761960ba) - This extension supports: decoding MessagePack requests and responses to JSON format, converting requests from JSON format to MessagePack.
+* [Fast Infoset Tester](https://portswigger.net/bappstore/2f640c88e0394bb09e788378f1bcc80f) - This extension converts incoming Fast Infoset requests and responses to XML, and converts outgoing messages back to Fast Infoset. 
+* [burp-protobuf-decoder](https://github.com/mwielgoszewski/burp-protobuf-decoder) - A simple Google Protobuf Decoder for Burp
+* [BurpAMFDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer) - BurpAMFDSer is a Burp plugin that will deserialze/serialize AMF request and response to and from XML with the use of Xtream library.
+* [Deflate Burp Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin) - The Deflate Burp Plugin is a plug-in for Burp Proxy (it implements the IBurpExtender interface) that decompresses HTTP response content in the ZLIB (RFC1950) and DEFLATE (RFC1951) compression formats.
+* [Burp Suite GWT wrapper](https://github.com/dnet/burp-gwt-wrapper) - Burp Suite GWT wrapper
 
 ## Cloud Security
 
 *Plugins related to assessing Cloud Security services such as Amazon AWS.*
 
-* [AWS Security Checks](https://github.com/PortSwigger/aws-security-checks)
-* [AWS Extender](https://github.com/VirtueSecurity/aws-extender)
-* [Cloud Storage Tester](https://github.com/PortSwigger/cloud-storage-tester)
+* [AWS Security Checks](https://github.com/PortSwigger/aws-security-checks) - This extensions provides additional Scanner checks for AWS security issues.
+* [AWS Extender](https://github.com/VirtueSecurity/aws-extender) - AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.
 
 ## Scripting
 
 *Extensions related to Scripting.*
 
-* [Python Scripter](https://github.com/portswigger/python-scripter)
-* [Burpkit](https://github.com/allfro/BurpKit)
-* [Burp Requests](https://github.com/silentsignal/burp-requests)
-* [Burpy](https://github.com/debasishm89/burpy)
-* [Buby](https://github.com/tduehr/buby)
-* [Burpee](https://github.com/GDSSecurity/burpee)
-* [Burp Jython Tab](https://github.com/mwielgoszewski/burp-jython-tab)
-* [Reissue Request Scripter](https://portswigger.net/bappstore/6e0b53d8c801471c9dc614a016d8a20d)
-* [Burp Buddy](https://github.com/tomsteele/burpbuddy)
-* [Copy As Python-Requests](https://portswigger.net/bappstore/b324647b6efa4b6a8f346389730df160)
-* [Copy as PowerShell Requests](https://portswigger.net/bappstore/4da25d602db04f5ca7c4b668e4611cfe)
-* [Copy as Node Request](https://portswigger.net/bappstore/e170472f83ef4da1bca5897203b6b33d)
-* [BReWSki](https://github.com/Burp-BReWSki/BReWSki)
+* [Python Scripter](https://github.com/portswigger/python-scripter) - This extension allows execution of a custom Python script on each HTTP 
+request and response processed by Burp.
+* [Burpkit](https://github.com/allfro/BurpKit) - BurpKit is a BurpSuite plugin which helps in assessing complex web apps that render the contents of their pages dynamically. 
+* [Burp Requests](https://github.com/silentsignal/burp-requests) - Copy as requests plugin for Burp Suite.
+* [Burpy](https://github.com/debasishm89/burpy) - Portable and flexible web application security assessment tool.It parses Burp Suite log and performs various tests depending on the module provided and finally generate a HTML report.
+* [Buby](https://github.com/tduehr/buby) - A JRuby implementation of the BurpExtender interface for PortSwigger Burp Suite.
+* [Burpee](https://github.com/GDSSecurity/burpee) - Python object interface to requests/responses recorded by Burp Suite.
+* [Burp Jython Tab](https://github.com/mwielgoszewski/burp-jython-tab) - Description not available.
+* [Reissue Request Scripter](https://portswigger.net/bappstore/6e0b53d8c801471c9dc614a016d8a20d) - This extension generates scripts to reissue a selected request. 
+* [Burp Buddy](https://github.com/tomsteele/burpbuddy) - burpbuddy exposes Burp Suites's extender API over the network through various mediums, with the goal of enabling development in any language without the restrictions of the JVM.
+* [Copy As Python-Requests](https://portswigger.net/bappstore/b324647b6efa4b6a8f346389730df160) - This extension copies selected request(s) as Python-Requests invocations.
+* [Copy as PowerShell Requests](https://portswigger.net/bappstore/4da25d602db04f5ca7c4b668e4611cfe) - This extension copies the selected request(s) as PowerShell invocation(s).
+* [Copy as Node Request](https://portswigger.net/bappstore/e170472f83ef4da1bca5897203b6b33d) - This extension copies the selected request(s) as Node.JS Request invocations.
+* [BReWSki](https://github.com/Burp-BReWSki/BReWSki) - BReWSki (Burp Rhino Web Scanner) is a Java extension for Burp Suite that allows user to write custom scanner checks in JavaScript. 
 
 ## OAuth and SSO
 
