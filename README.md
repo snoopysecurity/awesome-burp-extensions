@@ -145,56 +145,56 @@ request and response processed by Burp.
 
 *Extensions for assessing Single sign-on (SSO) and OAuth related applications.*
 
-* [SAML Raider](https://github.com/SAMLRaider/SAMLRaider)
-* [Burp OAuth](https://github.com/dnet/burp-oauth)
-* [EsPReSSO](https://github.com/RUB-NDS/BurpSSOExtension)
-* [SAML Encoder/Decoder](https://portswigger.net/bappstore/9ff11c976383491b976389ce23091ee3)
-* [SAML Editor](https://portswigger.net/bappstore/32c38cd10ef44c1cbca9d54483f78e88)
-* [PeopleSoft Token Extractor](https://portswigger.net/bappstore/df04d7d1af004ed6b50c555c4920232d)
-* [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
-* [JSON Web Tokens](https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6)
-* [AuthHeader Updater](https://github.com/sampsonc/AuthHeaderUpdater)
+* [SAML Raider](https://github.com/SAMLRaider/SAMLRaider) - SAML Raider is a Burp Suite extension for testing SAML infrastructures. It contains two core functionalities: Manipulating SAML Messages and manage X.509 certificates.
+* [Burp OAuth](https://github.com/dnet/burp-oauth) - OAuth plugin for Burp Suite Extender.
+* [EsPReSSO](https://github.com/RUB-NDS/BurpSSOExtension) - An extension for BurpSuite that highlights SSO messages in Burp's proxy window..
+* [SAML Encoder/Decoder](https://portswigger.net/bappstore/9ff11c976383491b976389ce23091ee3) - This extension adds a new tab to Burp's main UI, allowing encoding and decoding of SAML (Security Assertion Markup Language) formatted messages.
+* [SAML Editor](https://portswigger.net/bappstore/32c38cd10ef44c1cbca9d54483f78e88) - This extension adds a new tab to Burp's HTTP message editor, allowing encoding and decoding of SAML (Security Assertion Markup Language) formatted messages.
+* [PeopleSoft Token Extractor](https://portswigger.net/bappstore/df04d7d1af004ed6b50c555c4920232d) - This extension help test PeopleSoft SSO tokens.
+* [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61) - This extension helps to test applications that use JavaScript Object Signing and Encryption, including JSON Web Tokens.
+* [JSON Web Tokens](https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6) - This extension lets you decode and manipulate JSON web tokens on the fly, check their validity and automate common attacks against them.
+* [AuthHeader Updater](https://github.com/sampsonc/AuthHeaderUpdater) - Burp extension to specify the token value for the Authenication header while scanning.
 
 ## Information Gathering
 
 *Extensions related to Discovery, Spidering and Information Gathering.*
 
-* [Google Hack](https://portswigger.net/bappstore/a00a906943de49159092e329cc4f95f4)
-* [PwnBack](https://github.com/P3GLEG/PwnBack)
-* [Directory File Listing Parser Importer](https://github.com/SmeegeSec/Directory_File_Listing_Parser_Importer)
-* [Wayback Machine](https://portswigger.net/bappstore/5c7c516c690345c19fbf55b2b2ebeb76)
-* [Site Map Extractor](https://portswigger.net/bappstore/f991b67d4ef94f3c8692c3edca06583e)
-* [Site Map Fetcher](https://portswigger.net/bappstore/93bbecc3da434ef7ba5a5b2b98265169)
-* [Burp CSJ](https://portswigger.net/bappstore/371cebe47d8d4049a92dc03b66e1105f)
-* [Attack Surface Detector](https://portswigger.net/bappstore/47027b96525d4353aea5844781894fb1)
+* [Google Hack](https://portswigger.net/bappstore/a00a906943de49159092e329cc4f95f4) - This extension provides a GUI interface for setting up and running Google Hacking queries, and lets you add results directly to Burp's site map..
+* [PwnBack](https://github.com/P3GLEG/PwnBack) - Burp Extender plugin that generates a sitemap of a website using Wayback Machine.
+* [Directory File Listing Parser Importer](https://github.com/SmeegeSec/Directory_File_Listing_Parser_Importer) - This is a Burp Suite extension in Python to parse a directory and file listing text file of a web application.
+* [Wayback Machine](https://portswigger.net/bappstore/5c7c516c690345c19fbf55b2b2ebeb76) - Generate a sitemap using Wayback Machine..
+* [Site Map Extractor](https://portswigger.net/bappstore/f991b67d4ef94f3c8692c3edca06583e) - This extension extracts information from the Site Map. You can use the full site map or just in-scope items. 
+* [Site Map Fetcher](https://portswigger.net/bappstore/93bbecc3da434ef7ba5a5b2b98265169) - This extension fetches the responses of unrequested items in the site map.
+* [Burp CSJ](https://portswigger.net/bappstore/371cebe47d8d4049a92dc03b66e1105f) - This extension integrates Crawljax, Selenium and JUnit together. The intent of this extension is to aid web application security testing, increase web application crawling capability and speed-up complex test-cases execution.
+* [Attack Surface Detector](https://portswigger.net/bappstore/47027b96525d4353aea5844781894fb1) - The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters.
 
 ## Vulnerability Specific Extensions
 
 ### Cross-site scripting
-* [XSS Validator](https://github.com/nVisium/xssValidator)
-* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin)
-* [Burp Hunter](https://github.com/mystech7/Burp-Hunter)
+* [XSS Validator](https://github.com/nVisium/xssValidator) - This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
+* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin) - Publishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and S.
+* [Burp Hunter](https://github.com/mystech7/Burp-Hunter) - XSS Hunter Burp Plugin.
 
 ### Broken Access Control
-* [Burplay](https://github.com/SpiderLabs/burplay)
-* [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
-* [Autorize](https://github.com/Quitten/Autorize)
-* [AutoRepeater](https://github.com/nccgroup/AutoRepeater)
-* [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid)
-* [Authz](https://github.com/wuntee/BurpAuthzPlugin)
-* [Paramalyzer](https://github.com/JGillam/burp-paramalyzer)
-* [Burp SessionAuth](https://github.com/thomaspatzke/Burp-SessionAuthTool)
-* [Multi Session Replay](https://portswigger.net/bappstore/47319d00cae2447e8319db423913e19c)
-* [Auto Repeater](https://portswigger.net/bappstore/f89f2837c22c4ab4b772f31522647ed8)
-* [IncrementMe Please](https://github.com/alexlauerman/IncrementMePlease)
+* [Burplay](https://github.com/SpiderLabs/burplay) - Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.
+* [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix) - AuthMatrix is a Burp Suite extension that provides a simple way to test authorization in web applications and web services.
+* [Autorize](https://github.com/Quitten/Autorize) - Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests.
+* [AutoRepeater](https://github.com/nccgroup/AutoRepeater) - Automated HTTP Request Repeating With Burp Suite.
+* [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid) - UUID issues for Burp Suite.
+* [Authz](https://github.com/wuntee/BurpAuthzPlugin) - Burp plugin to test for authorization flaws.
+* [Paramalyzer](https://github.com/JGillam/burp-paramalyzer) - Paramalyzer - Burp extension for parameter analysis of large-scale web application penetration tests.
+* [Burp SessionAuth](https://github.com/thomaspatzke/Burp-SessionAuthTool) - Burp plugin which supports in finding privilege escalation vulnerabilities.
+* [Multi Session Replay](https://portswigger.net/bappstore/47319d00cae2447e8319db423913e19c) - This extension allows replay of requests in multiple sessions.
+* [Auto Repeater](https://portswigger.net/bappstore/f89f2837c22c4ab4b772f31522647ed8) - This extension automatically repeats requests, with replacement rules and response diffing. It provides a general-purpose solution for streamlining authorization testing within web applications.
+* [IncrementMe Please](https://github.com/alexlauerman/IncrementMePlease) - Burp extension to increment a parameter in each active scan request.
 
 ### Cross-Site Request Forgery
-* [CSRF Scanner](https://github.com/ah8r/csrf)
-* [CSurfer](https://github.com/asaafan/CSurfer)
-* [Additional CSRF Checks/EasyCSRF](https://github.com/0ang3el/EasyCSRF)
-* [Match/Replace Session Action](https://portswigger.net/bappstore/9b5c532966ca4d5eb13c09c72ba7aac2)
-* [Token Extractor](https://portswigger.net/bappstore/f24211fa6fcd4bbea6b21f99c5cad27a)
-* [CSRF Token Tracker](https://portswigger.net/bappstore/61ddd8a0464544218dfd94114c910548)
+* [CSRF Scanner](https://github.com/ah8r/csrf) -  CSRF Scanner Extension for Burp Suite Pro.
+* [CSurfer](https://github.com/asaafan/CSurfer) - CSurfer is a CSRF guard hiding extension that keeps track of the latest guard value per session and update new requests accordingly.
+* [Additional CSRF Checks/EasyCSRF](https://github.com/0ang3el/EasyCSRF) - EasyCSRF helps to find weak CSRF-protection in WebApp which can be easily bypassed. 
+* [Match/Replace Session Action](https://portswigger.net/bappstore/9b5c532966ca4d5eb13c09c72ba7aac2) - This extension provides match and replace functionality as a Session Handling Rule.
+* [Token Extractor](https://portswigger.net/bappstore/f24211fa6fcd4bbea6b21f99c5cad27a) - This extension allows tokens to be extracted from a response and replaced in requests.
+* [CSRF Token Tracker](https://portswigger.net/bappstore/61ddd8a0464544218dfd94114c910548) - This extension provides a sync function for CSRF token parameters.
 
 ### Deserialization
 * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
