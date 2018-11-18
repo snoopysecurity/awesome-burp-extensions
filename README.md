@@ -197,44 +197,43 @@ request and response processed by Burp.
 * [CSRF Token Tracker](https://portswigger.net/bappstore/61ddd8a0464544218dfd94114c910548) - This extension provides a sync function for CSRF token parameters.
 
 ### Deserialization
-* [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
-* [Java Serial Killer](https://github.com/NetSPI/JavaSerialKiller)
-* [BurpJDSer-ng](https://github.com/IOActive/BurpJDSer-ng)
-* [PHP Object Injection Check](https://portswigger.net/bappstore/24dab228311049d89a27a4d721e17ef7)
-* [Java Serialized Payloads](https://portswigger.net/bappstore/bc737909a5d742eab91544705c14d34f)
-* [Freddy, Deserialization Bug Finder](https://portswigger.net/bappstore/ae1cce0c6d6c47528b4af35faebc3ab3)
-* [CustomDeserializer](https://portswigger.net/bappstore/84ff4dceaae14e84990c6f3f7fe999bd)
-* [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer)
+* [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner) - All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
+* [Java Serial Killer](https://github.com/NetSPI/JavaSerialKiller) - Burp extension to perform Java Deserialization Attacks.
+* [BurpJDSer-ng](https://github.com/IOActive/BurpJDSer-ng) - Allows you to deserialize java objects to XML and lets you dynamically load classes/jars as needed.
+* [PHP Object Injection Check](https://portswigger.net/bappstore/24dab228311049d89a27a4d721e17ef7) - This extension adds an active scan check to find PHP object injection vulnerabilities..
+* [Java Serialized Payloads](https://portswigger.net/bappstore/bc737909a5d742eab91544705c14d34f) - This extension generates various Java serialized payloads designed to execute OS commands..
+* [Freddy, Deserialization Bug Finder](https://portswigger.net/bappstore/ae1cce0c6d6c47528b4af35faebc3ab3) - Helps with detecting and exploiting serialization libraries/APIs.
+* [CustomDeserializer](https://portswigger.net/bappstore/84ff4dceaae14e84990c6f3f7fe999bd) - This extension speeds up manual testing of web applications by performing custom deserialization.
+* [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer) - BurpJDSer is a Burp plugin that will deserialze/serialize Java request and response to and from XML with the use of Xtream library.
 
 ### Sensitive Data Exposure
-* [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster)
-* [PDF Metadata](https://github.com/luh2/PDFMetadata)
-* [SpyDir](https://github.com/aur3lius-dev/SpyDir)
-* [Burp Hash](https://github.com/burp-hash/burp-hash)
-* [Param Miner](https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943)
-* [MindMap Exporter](https://portswigger.net/bappstore/676b2e91c5a347289fca66fa67cca545)
-* [Image Location & Privacy Scanner](https://portswigger.net/bappstore/f3aec37088aa494c81962d965219be46)
-* [Image Metadata](https://portswigger.net/bappstore/3996aa01e0474b1a990db586a7f14ab7)
-* [ExifTool Scanner](https://portswigger.net/bappstore/858352a27e6e4a6caa802e61fdeb7dd4)
+* [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster) - A Burp Suite content discovery plugin that add the smart into the Buster!.
+* [PDF Metadata](https://github.com/luh2/PDFMetadata) - The PDF Metadata Burp Extension provides an additional passive Scanner check for metadata in PDF files.
+* [SpyDir](https://github.com/aur3lius-dev/SpyDir) - BurpSuite extension to assist with Automated Forced Browsing/Endpoint Enumeration.
+* [Burp Hash](https://github.com/burp-hash/burp-hash) - Many applications will hash parameters such as ID numbers and email addresses for use in secure tokens, like session cookies. 
+* [Param Miner](https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943) - This extension identifies hidden, unlinked parameters. It's particularly useful for finding web cache poisoning vulnerabilities.
+* [MindMap Exporter](https://portswigger.net/bappstore/676b2e91c5a347289fca66fa67cca545) - Aids with documentation of the following OWASP Testing Guide V4 tests: OTG-INFO-007: Map execution paths through application, OTG-INFO-006: Identify application entry points.
+* [Image Location & Privacy Scanner](https://portswigger.net/bappstore/f3aec37088aa494c81962d965219be46) - Passively scans for GPS locations or embedded privacy related exposure (like camera serial numbers) in images during normal security assessments of websites via a Burp plug-in.
+* [Image Metadata](https://portswigger.net/bappstore/3996aa01e0474b1a990db586a7f14ab7) - This extension extract metadata present in image files. The information found is rarely critical, but it can be useful for general reconnaissance. These information can be usernames who created the files, local paths and technologies used.
+* [ExifTool Scanner](https://portswigger.net/bappstore/858352a27e6e4a6caa802e61fdeb7dd4) - This Burp extension reads metadata from various filetypes (JPEG, PNG, PDF, DOC, XLS and much more) using ExifTool. Results are presented as Passive scan issues and Message editor tabs.
 
 ### SQL Injection
-* [CO2](https://github.com/JGillam/burp-co2)
-* [SQLiPy](https://github.com/codewatchorg/sqlipy)
-* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin)
-* [SQLiPy Sqlmap Integration](https://portswigger.net/bappstore/f154175126a04bfe8edc6056f340f52e)
+* [CO2](https://github.com/JGillam/burp-co2) - A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.
+* [SQLiPy](https://github.com/codewatchorg/sqlipy) - SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API.
+* [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin) - ublishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.
+* [SQLiPy Sqlmap Integration](https://portswigger.net/bappstore/f154175126a04bfe8edc6056f340f52e) - This extension integrates Burp Suite with SQLMap.
 
 ### XXE
-* [Office OpenXML Editor](https://github.com/PortSwigger/office-open-xml-editor)
-* [Content Type Converter](https://github.com/NetSPI/Burp-Extensions/tree/master/ContentTypeConverter)
+* [Office OpenXML Editor](https://github.com/PortSwigger/office-open-xml-editor) - Burp extension that add a tab to edit Office Open XML document (xlsx,docx,pptx).
+* [Content Type Converter](https://github.com/NetSPI/Burp-Extensions/tree/master/ContentTypeConverter) - Burp extension to convert XML to JSON, JSON to XML, x-www-form-urlencoded to XML, and x-www-form-urlencoded to JSON.
 
 ### Insecure File Uploads
-* [HTTP file upload scanner](https://github.com/modzero/mod0BurpUploadScanner)
-* [ZIP File Raider](https://github.com/destine21/ZIPFileRaider)
-* [Upload Scanner](https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa)
-* [File Upload Traverser](https://portswigger.net/bappstore/5f46fe766e9c435992c610160bb53cba)
+* [HTTP file upload scanner](https://github.com/modzero/mod0BurpUploadScanner) - A Burp Suite Pro extension to do security tests for HTTP file uploads.
+* [ZIP File Raider](https://github.com/destine21/ZIPFileRaider) - Burp Extension for ZIP File Payload Testing.
+* [File Upload Traverser](https://portswigger.net/bappstore/5f46fe766e9c435992c610160bb53cba) - This extension verifies if file uploads are vulnerable to directory traversal vulnerabilities. 
 
 ### Directory Traversal
-* [Uploader](https://github.com/thec00n/Uploader)
+* [Uploader](https://github.com/thec00n/Uploader) - Burp extension to test for directory traversal attacks in insecure file uploads.
 
 ### Session Management
 * [Session Timeout Test](https://github.com/augustd/burp-suite-session-timeout-test)
