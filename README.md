@@ -414,5 +414,5 @@ request and response processed by Burp.
 * [Intro to Burp Extender Jython - nVisium](https://www.youtube.com/watch?v=4f05lNULX1I)
 * [Intro to Burp Extender Java - nVisium](https://www.youtube.com/watch?v=wR1ENja0lI0)
 * [Web Penetration Testing with Burp and the CO2 Extension - Jason Gillam](https://www.youtube.com/watch?v=ez9KSqlYoWU)
-
+* [Developing Burp Suite Extensions with Luca Carettoni - eLearnSecurity](https://www.youtube.com/watch?v=yCnPMuan2fQ)
 
