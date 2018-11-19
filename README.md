@@ -320,9 +320,9 @@ request and response processed by Burp.
 *Extensions related to decryption of encrypted traffic and crypto related attacks.*
 
 * [WhatsApp Protocol Decryption Burp Tool](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint) - This tool was created during our research on Whatsapp Protocol.
-* [AES Burp](https://github.com/lgrangeia/aesburp) - Burp Extension to manipulate AES encrypted payloads.
+* [AES Burp/AES Payloads](https://github.com/lgrangeia/aesburp) - Burp Extension to manipulate AES encrypted payloads.
 * [Crypto Attacker](https://github.com/PortSwigger/crypto-attacker) - The extension helps detect and exploit some common crypto flaws.
-* [AES Payloads](https://github.com/PortSwigger/aes-payloads) - Burp Extension to manipulate AES encrypted payloads.
+* [AES Killer](https://github.com/Ebryx/AES-Killer) - Burp plugin to decrypt AES Encrypted traffic of mobile apps on the fly.
 * [Length Extension Attacks](https://portswigger.net/bappstore/f156669cae8d4c10a3cd9d0b5270bcf6) - This extension lets you perform hash length extension attacks on weak signature mechanisms.
 
 ## Web Services
@@ -395,6 +395,7 @@ request and response processed by Burp.
 * [CFURL Cache inspector for Burp Suite](https://github.com/silentsignal/burp-cfurl-cache) - CFURL Cache inspector for Burp Suite.
 * [Proxy Auto Config](https://portswigger.net/bappstore/7b3eae07aa724196ab85a8b64cd095d1) - This extension automatically configures Burp upstream proxies to match desktop proxy settings.
 * [Proxy Action Rules](https://portswigger.net/bappstore/01376d8325c846b988730e9417016039) - This extension can automatically forward, intercept, and drop proxy requests while actively displaying proxy log information and centralizing list management. 
+* [Perfmon](https://github.com/sampsonc/Perfmon) - Perfmon is an extension for Burp Suite that shows information about threads, memory being used, and memory allocated.
 
 ## Burp Extension Training Resources
 
@@ -416,3 +417,4 @@ request and response processed by Burp.
 * [Web Penetration Testing with Burp and the CO2 Extension - Jason Gillam](https://www.youtube.com/watch?v=ez9KSqlYoWU)
 * [Developing Burp Suite Extensions with Luca Carettoni - eLearnSecurity](https://www.youtube.com/watch?v=yCnPMuan2fQ)
 * [Quick start your Burp Suite extensions Jython and automation - Marius Nepomuceno](https://www.youtube.com/watch?v=LEkqKOijp7Q)
+* [Writing a Burp Extension – Part One - Carl Sampson](https://chs.us/writing-a-burp-extension-part-one/)
