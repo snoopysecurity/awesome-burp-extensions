@@ -190,6 +190,7 @@ request and response processed by Burp.
 * [XSS Validator](https://github.com/nVisium/xssValidator) - This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
 * [burp-xss-sql-plugin](https://github.com/attackercan/burp-xss-sql-plugin) - Publishing plugin which I used for years which helped me to find several bugbounty-worthy XSSes, OpenRedirects and SQLi.
 * [Burp Hunter](https://github.com/mystech7/Burp-Hunter) - XSS Hunter Burp Plugin.
+* [DOM XSS Checks](https://www.codemagi.com/downloads/private/9982e094925d19aa1b122da5f1dbcd86/DOMXSSChecks.zip) - This Burp Suite plugin passively scans for DOM-Based Cross-Site Scripting. 
 
 ### Broken Access Control
 * [Burplay/Multi Session Replay](https://github.com/SpiderLabs/burplay) - Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.
@@ -263,6 +264,7 @@ request and response processed by Burp.
 * [AuthHeader Updater](https://github.com/sampsonc/AuthHeaderUpdater) - Burp extension to specify the token value for the Authenication header while scanning. 
 * [Request Randomizer](https://portswigger.net/bappstore/36d6d7e35dac489b976c2f120ce34ae2) - This extension registers a session handling rule which places a random value into a specified location within requests.
 * [BearerAuthToken](https://github.com/twelvesec/BearerAuthToken) - This burpsuite extender provides a solution on testing Enterprise applications that involve security Authorization tokens into every HTTP requests.
+* [Burp Wicket Handler](https://github.com/Meatballs1/burp_wicket_handler/tree/8047692597e837de02810b5ef3ad97ed0da1385a) - Used as part of Burps Session Handling, Record a Macro which just gets the page you want to submit
 ### Command Injection
 
 * [Command Injection Attacker/Shelling](https://github.com/portswigger/command-injection-attacker) - a comprehensive OS command injection payload generator.
@@ -400,7 +402,7 @@ request and response processed by Burp.
 * [Proxy Action Rules](https://portswigger.net/bappstore/01376d8325c846b988730e9417016039) - This extension can automatically forward, intercept, and drop proxy requests while actively displaying proxy log information and centralizing list management. 
 * [Perfmon](https://github.com/sampsonc/Perfmon) - Perfmon is an extension for Burp Suite that shows information about threads, memory being used, and memory allocated.
 * [Unicode To Chinese](https://github.com/bit4woo/u2c) - A burpsuite Extender That Convert Unicode To Chinese.
-
+* [Curlit](https://github.com/faffi/curlit/tree/b5cf116d4716376e36cb0e522bdfe90915a7a961) - Burp Python plugin to turn requests into curl commands.
 ## Burp Extension Training Resources
 
 *Useful blog posts, talks and slides related to developing Burp extensions.*
