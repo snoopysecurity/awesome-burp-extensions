@@ -319,7 +319,7 @@ request and response processed by Burp.
 * [Intruder File Payload Generator](https://portswigger.net/bappstore/880cf2cf689b4067afd9db8e2aefb8ba) - This extension provides a way to use file contents and filenames as Intruder payloads.
 * [Intruder Time Payloads](https://portswigger.net/bappstore/ad5f51b515d14490ae8842ce61f60df5) - This extension lets you include the current epoch time in Intruder payloads.
 * [reCAPTCHA](https://github.com/bit4woo/reCAPTCHA.git) - A burp plugin that automatically recognizes the graphics verification code and is used for Payload in Intruder.
-
+* [Virtual Host Payload Generator](https://github.com/righettod/virtualhost-payload-generator) - Burp extension providing a set of values for the HTTP request Host header for the Burp Intruder in order to abuse virtual host resolution.
 ## Cryptography
 
 *Extensions related to decryption of encrypted traffic and crypto related attacks.*
