@@ -254,6 +254,7 @@ request and response processed by Burp.
 
 ### Directory Traversal
 * [Uploader](https://github.com/thec00n/Uploader) - Burp extension to test for directory traversal attacks in insecure file uploads.
+* [off-by-slash](https://github.com/bayotop/off-by-slash) - Burp extension to detect alias traversal via NGINX misconfiguration at scale.
 
 ### Session Management
 * [WAFDetect](https://portswigger.net/bappstore/12bef6b7607e46cf965c16f76e905a4c) - This extension passively detects the presence of a web application firewall (WAF) from HTTP responses.
