@@ -77,7 +77,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d) - This extension enables Burp to scan for SSL vulnerabilities.
 * [Software Vulnerability Scanner](https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb) - This extension scans for vulnerabilities in detected software versions using the Vulners.com API.
 * [Reverse Proxy Detector](https://portswigger.net/bappstore/a112997070354d249b64b4cf68eabc04) - This extension detects reverse proxy servers.
-* [SRI Check](https://github.com/bellma101/sri-check) - A Burp Suite extension for identifying missing Subresource Integrity attributes.
+* [SRI Check](https://github.com/SolomonSklash/sri-check) - A Burp Suite extension for identifying missing Subresource Integrity attributes.
 * [Reflected File Download Checker](https://portswigger.net/bappstore/34cd4392e7e04999b9ca0cc91f58886c) - This extension checks for reflected file downloads.
 * [Length Extension Attacks](https://portswigger.net/bappstore/f156669cae8d4c10a3cd9d0b5270bcf6) - his extension lets you perform hash length extension attacks on weak signature mechanisms.
 * [Headers Analyzer](https://portswigger.net/bappstore/8b4fe2571ec54983b6d6c21fbfe17cb2) - This extension adds a passive scan check to report security issues in HTTP headers.
