@@ -192,6 +192,7 @@ request and response processed by Burp.
 * [domain_hunter](https://github.com/bit4woo/domain_hunter) - A Burp Suite extender that try to find sub-domains,similar domains and related domains of an organization, not only domain.
 * [BigIP Discover](https://github.com/raise-isayan/BigIPDiscover) - A extension of Burp suite. The cookie set by the BipIP server may include a private IP, which is an extension to detect that IP
 * [AdminPanelFinder](https://github.com/moeinfatehi/Admin-Panel_Finder) - A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005).
+* [Asset Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response using passive scanning.
 ## Vulnerability Specific Extensions
 
 ### Cross-site scripting
