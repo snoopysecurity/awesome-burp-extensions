@@ -204,7 +204,7 @@ request and response processed by Burp.
 * [Reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real-time while browsing on site
 * [BitBlinder](https://github.com/BitTheByte/BitBlinder) - Burp extension helps in finding blind xss vulnerabilities
 
-### Cross-site scripting
+### Server-Side-Request-Forgery
 * [SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Server Side Request Forgery or SSRF is a vulnerability in which an attacker forces a server to perform requests on their behalf, SSRFmap is an Automatic SSRF fuzzer and exploitation tool
 
 ### Broken Access Control
