@@ -205,7 +205,6 @@ request and response processed by Burp.
 * [BitBlinder](https://github.com/BitTheByte/BitBlinder) - Burp extension helps in finding blind xss vulnerabilities
 
 ### Server-Side-Request-Forgery
-* [SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Server Side Request Forgery or SSRF is a vulnerability in which an attacker forces a server to perform requests on their behalf, SSRFmap is an Automatic SSRF fuzzer and exploitation tool
 
 ### Broken Access Control
 * [Burplay/Multi Session Replay](https://github.com/SpiderLabs/burplay) - Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.
