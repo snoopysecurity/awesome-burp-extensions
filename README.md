@@ -21,7 +21,6 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 - [Information Gathering](#information-gathering)
 - [Vulnerability Specific Extensions](#vulnerability-specific-extensions)
     - [Cross-site scripting](#cross-site-scripting)
-    - [SSRF](#Server-Side-Request-Forgery)
     - [Broken Access Control](#broken-access-control)
     - [Cross-Site Request Forgery](#cross-site-request-forgery)
     - [Deserialization](#deserialization)
@@ -90,7 +89,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Broken Link Checker](https://github.com/arbazkiraak/BurpBLH) - This extension discovers the broken links passively could be handy in second order takeovers.  
 * [Scan manual insertion point](https://github.com/cnotin/burp-scan-manual-insertion-point) - This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection.
 * [AdminPanelFinder](https://github.com/moeinfatehi/Admin-Panel_Finder) - A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005).
-
+* [HTTP Request Smuggler](https://github.com/portswigger/http-request-smuggler) - This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you.
 ## Custom Features
 
 *Extensions related to customizing Burp features and extend the functionality of Burp Suite in numerous ways.*
@@ -110,6 +109,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Handy Collaborator](https://portswigger.net/bappstore/dcf7c44cdc7b4698bba86d94c692fb7f) - Handy Collaborator is a Burp Suite Extension that lets you use the Collaborator tool during manual testing in a comfortable way.
 * [BadIntent](https://github.com/mateuszk87/BadIntent) - Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite.
 * [Custom Send-To](https://github.com/PortSwigger/custom-send-to) - Adds a customizable "Send to..."-context-menu to your BurpSuite.
+* [IPRotate Burp Extension])https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension) - Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
 
 ## Beautifiers and Decoders
 
@@ -146,6 +146,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [AWS Security Checks](https://github.com/PortSwigger/aws-security-checks) - This extensions provides additional Scanner checks for AWS security issues.
 * [AWS Extender](https://github.com/VirtueSecurity/aws-extender) - AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.
 * [AWS Signer](https://github.com/NetSPI/AWSSigner) - Burp Extension for AWS Signing.
+
 
 ## Scripting
 
@@ -195,6 +196,7 @@ request and response processed by Burp.
 * [BigIP Discover](https://github.com/raise-isayan/BigIPDiscover) - A extension of Burp suite. The cookie set by the BipIP server may include a private IP, which is an extension to detect that IP
 * [AdminPanelFinder](https://github.com/moeinfatehi/Admin-Panel_Finder) - A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005).
 * [Asset Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response using passive scanning.
+
 ## Vulnerability Specific Extensions
 
 ### Cross-site scripting
@@ -322,7 +324,8 @@ request and response processed by Burp.
 * [Log Requests to SQLite](https://github.com/righettod/log-requests-to-sqlite) - BURP extension to record every HTTP request send via BURP and create an audit trail log of an assessment.
 * [Burp Response Clusterer](https://github.com/modzero/burp-ResponseClusterer) - Burp plugin that clusters responses to show an overview of received responses.
 * [Burp Collect500](https://github.com/floyd-fuh/burp-Collect500) - Burp plugin that collects all HTTP 500 messages.
-* [Sink Logger](https://github.com/bayotop/sink-logger) - Sink Logger is a Burp Suite Extension that allows to transparently monitor various JavaScript sinks. .
+* [Sink Logger](https://github.com/bayotop/sink-logger) - Sink Logger is a Burp Suite Extension that allows to transparently monitor various JavaScript sinks.
+* [Burp Scope Monitor Extension](https://github.com/Regala/burp-scope-monitor) - A Burp Suite Extension to monitor and keep track of tested endpoints.
 
 ## Payload Generators and Fuzzers
 
@@ -343,7 +346,7 @@ request and response processed by Burp.
 * [Virtual Host Payload Generator](https://github.com/righettod/virtualhost-payload-generator) - Burp extension providing a set of values for the HTTP request Host header for the Burp Intruder in order to abuse virtual host resolution.
 * [Stepper](https://github.com/CoreyD97/Stepper) - Stepper is designed to be a natural evolution of Burp Suite's Repeater tool, providing the ability to create sequences of steps and define regular expressions to extract values from responses which can then be used in subsequent steps.
 * [Turbo Intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
-
+* [HackBar](https://github.com/d3vilbug/HackBar) - HackBar plugin for Burpsuite v1.0
 ## Cryptography
 
 *Extensions related to decryption of encrypted traffic and crypto related attacks.*
@@ -394,7 +397,7 @@ request and response processed by Burp.
 
 ## Misc
 
-* [knife](https://github.com/bit4woo/knife) - A extension that add some small function[ one key to update cookie, one key add host to scope] to right click context menu,insert payload of Hackbar or self-configured to current request.
+* [knife](https://github.com/bit4woo/knife) - A burp extension that add some useful function to Context Menu. This includes *one key to update cookie*, *one key add host to scope* to the right click context menu, *insert payload* of Hackbar or self-configured to current request.
 * [Burp Rest API](https://github.com/vmware/burp-rest-api) - REST/JSON API to the Burp Suite security tool.
 * [Burpa](https://github.com/0x4D31/burpa) - A Burp Suite Automation Tool.
 * [CVSS Calculator](https://portswigger.net/bappstore/e2209cdad8474342a695b2e279c294f0) - This extension calculates CVSS v2 and v3 scores of vulnerabilities.
