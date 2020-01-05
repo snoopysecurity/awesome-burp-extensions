@@ -268,7 +268,7 @@ request and response processed by Burp.
 * [Freddy, Deserialization Bug Finder](https://portswigger.net/bappstore/ae1cce0c6d6c47528b4af35faebc3ab3) - Helps with detecting and exploiting serialization libraries/APIs.
 * [CustomDeserializer](https://portswigger.net/bappstore/84ff4dceaae14e84990c6f3f7fe999bd) - This extension speeds up manual testing of web applications by performing custom deserialization.
 * [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer) - BurpJDSer is a Burp plugin that will deserialze/serialize Java request and response to and from XML with the use of Xtream library.
-
+* [PHP Object Injection Slinger](https://github.com/ricardojba/poi-slinger) - Designed to help you find PHP Object Injection vulnerabilities on popular PHP Frameworks.
 ### Sensitive Data Exposure
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster) - A Burp Suite content discovery plugin that add the smart into the Buster!.
 * [PDF Metadata](https://github.com/luh2/PDFMetadata) - The PDF Metadata Burp Extension provides an additional passive Scanner check for metadata in PDF files.
