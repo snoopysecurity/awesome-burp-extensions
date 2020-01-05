@@ -81,12 +81,13 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Reflected File Download Checker](https://portswigger.net/bappstore/34cd4392e7e04999b9ca0cc91f58886c) - This extension checks for reflected file downloads.
 * [Length Extension Attacks](https://portswigger.net/bappstore/f156669cae8d4c10a3cd9d0b5270bcf6) - his extension lets you perform hash length extension attacks on weak signature mechanisms.
 * [Headers Analyzer](https://portswigger.net/bappstore/8b4fe2571ec54983b6d6c21fbfe17cb2) - This extension adds a passive scan check to report security issues in HTTP headers.
-* [Heartbleed](https://portswigger.net/bappstore/d405150b57e54887b1dcfa563b7c0b6f) - This extension adds a new tab to Burp's Suite main UI allowing a server to be tested for the Heartbleed bug. If the server is vulnerable, data retrieved from the server's memory will be dumped and viewed.
+* [HeartBleed](https://portswigger.net/bappstore/d405150b57e54887b1dcfa563b7c0b6f) - This extension adds a new tab to Burp's Suite main UI allowing a server to be tested for the Heartbleed bug. If the server is vulnerable, data retrieved from the server's memory will be dumped and viewed.
 * [Image Size Issues](https://portswigger.net/bappstore/1b602a9ae78a4ba4bc9f7b2c405a2b4e) - This extension passively detects potential denial of service attacks due to the size of an image being specified in request parameters.
 * [CMS Scanner](https://portswigger.net/bappstore/1bf95d0be40c447b94981f5696b1a18e) - An active scan extension for Burp that provides supplemental coverage when testing popular content management systems.
 * [Detect Dynamic JS](https://portswigger.net/bappstore/4a657674ebe3410b92280613aa512304) - This extension compares JavaScript files with each other to detect dynamically generated content and content that is only accessible when the user is authenticated.
 * [CTFHelper](https://github.com/unamer/CTFHelper) - This extension will scan some sensitive files (backup files likes .index.php.swp or .git directory) in web server that makes solving CTF challenge faster.
-* [Broken Link Checker](https://github.com/arbazkiraak/BurpBLH) - This extension discovers the broken links passively could be handy in second order takeovers.  
+* [Broken Link Hijacking](https://github.com/arbazkiraak/BurpBLH) - This extension discovers the broken links passively could be handy in second order takeovers.  
+* [Discover Reverse Tabnabbing](https://github.com/GabsJahBless/discovering-reversetabnabbing) - Identify areas in your application that are vulnerable to Reverse Tabnabbing.
 * [Scan manual insertion point](https://github.com/cnotin/burp-scan-manual-insertion-point) - This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection.
 * [AdminPanelFinder](https://github.com/moeinfatehi/Admin-Panel_Finder) - A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005).
 * [HTTP Request Smuggler](https://github.com/portswigger/http-request-smuggler) - This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you.
@@ -94,6 +95,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [iRule Detector](https://github.com/kugg/irule-detector) - Detect a Remote Code or Command Execution (RCE) vulnerability in some implementations of F5 Networks’ popular BigIP load balancer.
 * [Burp AEM Security Scanner Extension](https://github.com/thomashartm/burp-aem-scanner) - Burp AEM Security Scanner is an AEM focussed plugin which supports the evaluation of well known misconfigurations of AEM installations. 
 * [FlareQuench](https://github.com/aress31/flarequench) - Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.
+8 [Cypher Injection Scanner](https://github.com/morkin1792/cypher-injection-scanner) - A Burp Suite Extension that detects Cypher code injection
 
 ## Custom Features
 
@@ -113,8 +115,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Manual Scan Issues](https://portswigger.net/bappstore/3ebca77f69434faea1e3e97e0269fe17) - This extension allows users to manually create custom issues within the Burp Scanner results.
 * [Handy Collaborator](https://portswigger.net/bappstore/dcf7c44cdc7b4698bba86d94c692fb7f) - Handy Collaborator is a Burp Suite Extension that lets you use the Collaborator tool during manual testing in a comfortable way.
 * [BadIntent](https://github.com/mateuszk87/BadIntent) - Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite.
-* [Custom Send-To](https://github.com/PortSwigger/custom-send-to) - Adds a customizable "Send to..."-context-menu to your BurpSuite.
-* [IPRotate Burp Extension](https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension) - Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
+* [Custom Send To](https://github.com/PortSwigger/custom-send-to) - Adds a customizable "Send to..."-context-menu to your BurpSuite.
+* [IP Rotate](https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension) - Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
 * [Timeinator](https://github.com/mwrlabs/timeinator) - Timeinator is an extension for Burp Suite that can be used to perform timing attacks over an unreliable network such as the internet.
 * [Auto-Drop Requests](https://github.com/sunny0day/burp-auto-drop) - Burp extension to automatically drop requests that match a certain regex.
 * [Scope Monitor](https://github.com/Regala/burp-scope-monitor) - A Burp Suite Extension to monitor and keep track of tested endpoints.
@@ -122,6 +124,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [pip3line](https://github.com/portswigger/pip3line) - Raw bytes manipulation utility, able to apply well known and less well known transformations.
 * [Auto Drop](https://github.com/sunny0day/burp-auto-drop) - This extension allows you to automatically Drop requests that match a certain regex. Helpful in case the target has logging or tracking services enabled.
 * [Bookmarks](https://github.com/TypeError/Bookmarks) - A Burp Suite extension to bookmark requests for later, instead of those 100 unnamed repeater tabs you've got open.
+* [Stepper](https://github.com/CoreyD97/Stepper) - A Multi-Stage Repeater Replacement For Burp Suite.
 
 ## Beautifiers and Decoders
 
@@ -152,7 +155,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Cyber Security Transformation Chef](https://github.com/usdAG/cstc) - The Cyber Security Transformation Chef (CSTC) is a Burp Suite extension. It is build for security experts to extend Burp Suite for chaining simple operations for each incomming or outgoing message. 
 * [GraphQL Raider](https://github.com/denniskniep/GQLRaider) - GraphQL Raider is a Burp Suite Extension for testing endpoints implementing GraphQL.
 * [JSONPath](https://github.com/augustd/burp-suite-jsonpath) - Burp Suite extension to view and extract data from JSON responses.
-
+* [Burp Beautifier](https://github.com/Ovi3/BurpBeautifier) - BurpBeautifier is a Burpsuite extension for beautifying request/response body, supporting JS, JSON, HTML, XML format, writing in Jython 2.7.
+* [JSON/JS Beautifier](https://github.com/Manjesh24/JSON-JS-Beautifier) - This is a Burp Extension for beautifying JSON and JavaScript output to make the body parameters more human readable.
 ## Cloud Security
 
 *Plugins related to assessing Cloud Security services such as Amazon AWS.*
@@ -226,10 +230,11 @@ request and response processed by Burp.
 * [DOM XSS Checks](https://www.codemagi.com/downloads/private/9982e094925d19aa1b122da5f1dbcd86/DOMXSSChecks.zip) - This Burp Suite plugin passively scans for DOM-Based Cross-Site Scripting. 
 * [Reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real-time while browsing on site
 * [BitBlinder](https://github.com/BitTheByte/BitBlinder) - Burp extension helps in finding blind xss vulnerabilities
-* [JavaScript Security Burp Extension](https://github.com/phefley/burp-javascript-security-extension) - A Burp Suite extension which performs checks for cross-domain scripting against the DOM, subresource integrity checks, and evaluates JavaScript resources against threat intelligence data.
+* [JavaScript Security](https://github.com/phefley/burp-javascript-security-extension) - A Burp Suite extension which performs checks for cross-domain scripting against the DOM, subresource integrity checks, and evaluates JavaScript resources against threat intelligence data.
 * [Reflected Parameters](https://github.com/portswigger/reflected-parameters) - This extension monitors traffic and looks for request parameter values (longer than 3 characters) that are reflected in the response.
 * [BitBlinder](https://github.com/BitTheByte/BitBlinder) - Burp extension helps in finding blind xss vulnerabilities.
 * [jsonp](https://github.com/kapytein/jsonp) - jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.
+
 ### Server-Side-Request-Forgery
 
 ### Broken Access Control
@@ -318,7 +323,7 @@ request and response processed by Burp.
 
 ### Command Injection
 
-* [Command Injection Attacker/Shelling](https://github.com/portswigger/command-injection-attacker) - a comprehensive OS command injection payload generator.
+* [Command Injection Attacker](https://github.com/portswigger/command-injection-attacker) - a comprehensive OS command injection payload generator.
 * [Argument Injection Hammer](https://github.com/nccgroup/argumentinjectionhammer) - it is used to identify argument injection vulnerabilities, like *curl* *awk* etc, and sth just like these
 
 ### Template Injection
@@ -329,7 +334,7 @@ request and response processed by Burp.
 
 *The following extensions can aid during WAF evasion.*
 
-* [Bypass Waf](https://github.com/codewatchorg/bypasswaf) - Add headers to all Burp requests to bypass some WAF products.
+* [Bypass WAF](https://github.com/codewatchorg/bypasswaf) - Add headers to all Burp requests to bypass some WAF products.
 * [Random IP Address Header](https://github.com/PortSwigger/random-ip-address-header) - This extension automatically generates IPV6 and IPV4 fake source address headers to evade WAF filtering.
 * [Burp Suite HTTP Smuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/) - A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques.
 * [What-The-WAF](https://portswigger.net/bappstore/5da470c526ea4661a82187ec3e0f94aa) - This extension adds a custom payload type to the Intruder tool, to help test for bypasses of Web Application Firewalls (WAFs).
@@ -364,6 +369,7 @@ request and response processed by Burp.
 * [Log Viewer](https://github.com/ax/burp-logs) - Lets you view log files generated by Burp in a graphical enviroment.
 * [Rapid](https://github.com/iamaldi/rapid) - A fairly simple Burp Suite extension that enables you to save HTTP Requests and Responses to files a lot faster and in one go.
 * [Bookmarks](https://github.com/TypeError/Bookmarks) - A Burp Suite extension to bookmark requests for later, instead of those 100 unnamed repeater tabs you've got open.
+* [Scope Monitor](https://github.com/portswigger/scope-monitor) - A Burp Suite Extension to monitor and keep track of tested endpoints.
 
 ## Payload Generators and Fuzzers
 
@@ -386,6 +392,7 @@ request and response processed by Burp.
 * [Turbo Intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 * [HackBar](https://github.com/d3vilbug/HackBar) - HackBar plugin for Burpsuite v1.0.
 * [burpContextAwareFuzzer](https://github.com/mgeeky/burpContextAwareFuzzer) - BurpSuite's payload-generation extension aiming at applying fuzzed test-cases depending on the type of payload (integer, string, path; JSON; XML; GWT; binary) and following encoding-scheme applied originally.
+* [Adhoc Payload Processors](https://github.com/GeoffWalton/burp--Adhoc-Payload-Processors) - Generate payload processors on the fly, without having to create individual extensions.
 
 ## Cryptography
 
