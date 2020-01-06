@@ -95,7 +95,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [iRule Detector](https://github.com/kugg/irule-detector) - Detect a Remote Code or Command Execution (RCE) vulnerability in some implementations of F5 Networks’ popular BigIP load balancer.
 * [Burp AEM Security Scanner Extension](https://github.com/thomashartm/burp-aem-scanner) - Burp AEM Security Scanner is an AEM focussed plugin which supports the evaluation of well known misconfigurations of AEM installations. 
 * [FlareQuench](https://github.com/aress31/flarequench) - Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.
-8 [Cypher Injection Scanner](https://github.com/morkin1792/cypher-injection-scanner) - A Burp Suite Extension that detects Cypher code injection
+* [Cypher Injection Scanner](https://github.com/morkin1792/cypher-injection-scanner) - A Burp Suite Extension that detects Cypher code injection
 
 ## Custom Features
 
@@ -157,6 +157,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [JSONPath](https://github.com/augustd/burp-suite-jsonpath) - Burp Suite extension to view and extract data from JSON responses.
 * [Burp Beautifier](https://github.com/Ovi3/BurpBeautifier) - BurpBeautifier is a Burpsuite extension for beautifying request/response body, supporting JS, JSON, HTML, XML format, writing in Jython 2.7.
 * [JSON/JS Beautifier](https://github.com/Manjesh24/JSON-JS-Beautifier) - This is a Burp Extension for beautifying JSON and JavaScript output to make the body parameters more human readable.
+
 ## Cloud Security
 
 *Plugins related to assessing Cloud Security services such as Amazon AWS.*
@@ -164,7 +165,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [AWS Security Checks](https://github.com/PortSwigger/aws-security-checks) - This extensions provides additional Scanner checks for AWS security issues.
 * [AWS Extender](https://github.com/VirtueSecurity/aws-extender) - AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.
 * [AWS Signer](https://github.com/NetSPI/AWSSigner) - Burp Extension for AWS Signing.
-
+* [cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. Must be run from a *nix environment.
 
 ## Scripting
 
@@ -219,7 +220,7 @@ request and response processed by Burp.
 * [Asset Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response using passive scanning.
 * [DirectoryImporter](https://github.com/Static-Flow/DirectoryImporter) - This is a Burpsuite plugin built to enable you to import your directory bruteforcing results into burp for easy viewing later.
 * [Dr. Watson](https://github.com/prodigysml/Dr.-Watson) - Dr. Watson is a simple Burp Suite extension that helps find assets, keys, subdomains, IP addresses, and other useful information.
-
+* [Filter OPTIONS Method](https://github.com/capt-meelo/filter-options-method) - A Burp extension that filters out OPTIONS requests from populating Burp's Proxy history. 
 
 ## Vulnerability Specific Extensions
 
@@ -232,10 +233,8 @@ request and response processed by Burp.
 * [BitBlinder](https://github.com/BitTheByte/BitBlinder) - Burp extension helps in finding blind xss vulnerabilities
 * [JavaScript Security](https://github.com/phefley/burp-javascript-security-extension) - A Burp Suite extension which performs checks for cross-domain scripting against the DOM, subresource integrity checks, and evaluates JavaScript resources against threat intelligence data.
 * [Reflected Parameters](https://github.com/portswigger/reflected-parameters) - This extension monitors traffic and looks for request parameter values (longer than 3 characters) that are reflected in the response.
-* [BitBlinder](https://github.com/BitTheByte/BitBlinder) - Burp extension helps in finding blind xss vulnerabilities.
 * [jsonp](https://github.com/kapytein/jsonp) - jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.
-
-### Server-Side-Request-Forgery
+* [feminda](https://github.com/wish-i-was/femida) - An automated blind-xss search plugin for Burp Suite.
 
 ### Broken Access Control
 * [Burplay/Multi Session Replay](https://github.com/SpiderLabs/burplay) - Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.
@@ -269,6 +268,7 @@ request and response processed by Burp.
 * [CustomDeserializer](https://portswigger.net/bappstore/84ff4dceaae14e84990c6f3f7fe999bd) - This extension speeds up manual testing of web applications by performing custom deserialization.
 * [BurpJDSer](https://github.com/NetSPI/Burp-Extensions/tree/master/BurpJDSer) - BurpJDSer is a Burp plugin that will deserialze/serialize Java request and response to and from XML with the use of Xtream library.
 * [PHP Object Injection Slinger](https://github.com/ricardojba/poi-slinger) - Designed to help you find PHP Object Injection vulnerabilities on popular PHP Frameworks.
+
 ### Sensitive Data Exposure
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster) - A Burp Suite content discovery plugin that add the smart into the Buster!.
 * [PDF Metadata](https://github.com/luh2/PDFMetadata) - The PDF Metadata Burp Extension provides an additional passive Scanner check for metadata in PDF files.
@@ -283,6 +283,8 @@ request and response processed by Burp.
 * [BeanStack - Stack-trace Fingerprinter](https://github.com/x41sec/BeanStack) - Java Fingerprinting using Stack Traces. Note that this extension sends potentially private stack-traces to a third party for processing.
 * [Directory Importer](https://github.com/Static-Flow/DirectoryImporter) - This is a Burpsuite plugin for importing directory bruteforcing results into Burp for futher analysis. 
 * [JS Link Finder](https://github.com/InitRoot/BurpJSLinkFinder) - Burp Extension for a passively scanning JavaScript files for endpoint links. - Export results the text file - Exclude specific 'js' files e.g. jquery, google-analytics.
+* [Secret Finder](https://github.com/m4ll0k/BurpSuite-Secret_Finder) - A Burp Suite extension to help pentesters to discover a apikeys,accesstokens and more sensitive data using a regular expressions. 
+
 
 ### SQL Injection
 * [CO2](https://github.com/JGillam/burp-co2) - A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.
@@ -393,6 +395,7 @@ request and response processed by Burp.
 * [HackBar](https://github.com/d3vilbug/HackBar) - HackBar plugin for Burpsuite v1.0.
 * [burpContextAwareFuzzer](https://github.com/mgeeky/burpContextAwareFuzzer) - BurpSuite's payload-generation extension aiming at applying fuzzed test-cases depending on the type of payload (integer, string, path; JSON; XML; GWT; binary) and following encoding-scheme applied originally.
 * [Adhoc Payload Processors](https://github.com/GeoffWalton/burp--Adhoc-Payload-Processors) - Generate payload processors on the fly, without having to create individual extensions.
+* [Username Generator](https://github.com/jstrosch/Username_Generator) - This is a Python extension that will parse email addresses out of selected URLs from the target tab and display them in the output window of the Extensions tab. 
 
 ## Cryptography
 
@@ -484,14 +487,13 @@ request and response processed by Burp.
 * [Custom Parameter Handler](https://portswigger.net/bappstore/a0c0cd68ab7c4928b3bf0a9ad48ec8c7) - This extension provides a simple way to modify any part of an HTTP message, allowing manipulation with surgical precision even (and especially) when using macros. 
 * [CFURL Cache inspector for Burp Suite](https://github.com/silentsignal/burp-cfurl-cache) - CFURL Cache inspector for Burp Suite.
 * [Proxy Auto Config](https://portswigger.net/bappstore/7b3eae07aa724196ab85a8b64cd095d1) - This extension automatically configures Burp upstream proxies to match desktop proxy settings.
-* [Proxy Action Rules](https://portswigger.net/bappstore/01376d8325c846b988730e9417016039) - This extension can automatically forward, intercept, and drop proxy requests while actively displaying proxy log information and centralizing list management. 
+* [Proxy Action Rules](https://github.com/jamesm0rr1s/BurpSuite-Active-AutoProxy) - This extension can automatically forward, intercept, and drop proxy requests while actively displaying proxy log information and centralizing list management. 
 * [Perfmon](https://github.com/sampsonc/Perfmon) - Perfmon is an extension for Burp Suite that shows information about threads, memory being used, and memory allocated.
 * [Unicode To Chinese](https://github.com/bit4woo/u2c) - A burpsuite Extender That Convert Unicode To Chinese.
 * [Curlit](https://github.com/faffi/curlit/tree/b5cf116d4716376e36cb0e522bdfe90915a7a961) - Burp Python plugin to turn requests into curl commands.
 * [BurpSuite-Team-Extension](https://github.com/Static-Flow/BurpSuite-Team-Extension) - This Burpsuite plugin allows for multiple web app testers to share their proxy history with each other in real time.
 * [BurpelFish](https://github.com/bao7uo/BurpelFish) - Adds Google Translate to Burp's context menu.
 * [BlockerLite](https://github.com/bomsi/BlockerLite) - Simple Burp extension to drop blacklisted hosts.
-
 
 ## Burp Extension Training Resources
 
