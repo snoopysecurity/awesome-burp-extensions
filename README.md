@@ -396,7 +396,7 @@ request and response processed by Burp.
 * [burpContextAwareFuzzer](https://github.com/mgeeky/burpContextAwareFuzzer) - BurpSuite's payload-generation extension aiming at applying fuzzed test-cases depending on the type of payload (integer, string, path; JSON; XML; GWT; binary) and following encoding-scheme applied originally.
 * [Adhoc Payload Processors](https://github.com/GeoffWalton/burp--Adhoc-Payload-Processors) - Generate payload processors on the fly, without having to create individual extensions.
 * [Username Generator](https://github.com/jstrosch/Username_Generator) - This is a Python extension that will parse email addresses out of selected URLs from the target tab and display them in the output window of the Extensions tab. 
-
+* [LogicalFuzzingEngine](https://github.com/wdahlenburg/LogicalFuzzingEngine) - A Burpsuite extension written in Python to perform basic validation fuzzing
 ## Cryptography
 
 *Extensions related to decryption of encrypted traffic and crypto related attacks.*
@@ -517,3 +517,4 @@ request and response processed by Burp.
 * [Quick start your Burp Suite extensions Jython and automation - Marius Nepomuceno](https://www.youtube.com/watch?v=LEkqKOijp7Q)
 * [Writing a Burp Extension – Part One - Carl Sampson](https://chs.us/writing-a-burp-extension-part-one/)
 * [OWASP Bay Area - Writing Burp Extensons](https://www.youtube.com/watch?v=OkQiP_Tcs68)
+* [Portswigger - The top 10 best pentesting tools and extensions in Burp Suite](https://portswigger.net/testers/penetration-testing-tools)
