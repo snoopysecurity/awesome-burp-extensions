@@ -96,6 +96,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Burp AEM Security Scanner Extension](https://github.com/thomashartm/burp-aem-scanner) - Burp AEM Security Scanner is an AEM focussed plugin which supports the evaluation of well known misconfigurations of AEM installations. 
 * [FlareQuench](https://github.com/aress31/flarequench) - Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.
 * [Cypher Injection Scanner](https://github.com/morkin1792/cypher-injection-scanner) - A Burp Suite Extension that detects Cypher code injection
+* [InQL Scanner](https://github.com/doyensec/inql) -  A Comprehensive Burp Extension for GraphQL Security Testing
 
 ## Custom Features
 
