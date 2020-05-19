@@ -128,6 +128,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Stepper](https://github.com/CoreyD97/Stepper) - A Multi-Stage Repeater Replacement For Burp Suite.
 * [Response Pattern Matcher](https://github.com/JackJ07/Response-Pattern-Matcher) - Adds extensibility to Burp by using a list of payloads to pattern match on HTTP responses highlighting interesting and potentially vulnerable areas.
 * [Add & Track Custom Issues](https://github.com/jamesm0rr1s/BurpSuite-Add-and-Track-Custom-Issues) - This extension allows custom scan issues to be added and tracked within Burp.
+* [cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef.
+
 ## Beautifiers and Decoders
 
 *Extensions related to beautifying and decoding data formats.*
