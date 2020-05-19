@@ -129,6 +129,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Response Pattern Matcher](https://github.com/JackJ07/Response-Pattern-Matcher) - Adds extensibility to Burp by using a list of payloads to pattern match on HTTP responses highlighting interesting and potentially vulnerable areas.
 * [Add & Track Custom Issues](https://github.com/jamesm0rr1s/BurpSuite-Add-and-Track-Custom-Issues) - This extension allows custom scan issues to be added and tracked within Burp.
 * [cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef.
+* [Piper for Burp Suite](https://github.com/silentsignal/burp-piper) - Piper Burp Suite Extender plugin.
+* [Response Grepper](https://github.com/b4dpxl/Burp-ResponseGrepper) - This Burp extension will auto-extract and display values from HTTP Response bodies based on a Regular Expression.
 
 ## Beautifiers and Decoders
 
@@ -170,6 +172,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [AWS Extender](https://github.com/VirtueSecurity/aws-extender) - AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure.
 * [AWS Signer](https://github.com/NetSPI/AWSSigner) - Burp Extension for AWS Signing.
 * [cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. Must be run from a *nix environment.
+* [AWS SigV4](https://github.com/anvilventures/aws-sigv4) - This is a Burp extension for signing AWS requests with SigV4.
 
 ## Scripting
 
@@ -381,6 +384,7 @@ request and response processed by Burp.
 * [Rapid](https://github.com/iamaldi/rapid) - A fairly simple Burp Suite extension that enables you to save HTTP Requests and Responses to files a lot faster and in one go.
 * [Bookmarks](https://github.com/TypeError/Bookmarks) - A Burp Suite extension to bookmark requests for later, instead of those 100 unnamed repeater tabs you've got open.
 * [Scope Monitor](https://github.com/portswigger/scope-monitor) - A Burp Suite Extension to monitor and keep track of tested endpoints.
+* [Progress Tracker](https://github.com/dariusztytko/progress-burp) - Burp Suite extension to track vulnerability assessment progress.
 
 ## Payload Generators and Fuzzers
 
@@ -463,6 +467,7 @@ request and response processed by Burp.
 * [Nessus Loader](https://github.com/xorrbit/Burp-NessusLoader) - his extension parses a Nessus scan XML file to detect web servers. Any web servers discovered are added to the site map.
 * [Peach API Integration](https://github.com/PeachTech/peachapisec-burp) - This Burp plugin provides integration between Burp and Peach API Security.
 * [YesWeBurp](https://github.com/yeswehack/YesWeBurp) - YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp. 
+* [Nucleus Burp Extension](https://github.com/nucleus-security/Nucleus-Burp-Extension) - This extension allows Burp Suite scans to be pushed to the Nucleus platform.
 
 ## Misc
 
@@ -505,6 +510,9 @@ request and response processed by Burp.
 * [BurpelFish](https://github.com/bao7uo/BurpelFish) - Adds Google Translate to Burp's context menu.
 * [BlockerLite](https://github.com/bomsi/BlockerLite) - Simple Burp extension to drop blacklisted hosts.
 * [Filter Options Method](https://github.com/capt-meelo/filter-options-method) -  Burp extension that filters out OPTIONS requests from populating Burp's Proxy history.
+* [Burp-Quicker-Context-Extension](https://github.com/bytebutcher/burp-quicker-context) - This extension adds the "Quicker Context" dialog which is a lightweight dialog to select tabs or execute application- and context-menu-entries more easily by typing parts of the name or choosing one stored in history.
+* [Burp Share Requests](https://github.com/Static-Flow/BurpSuiteShareRequests) - This Burp Suite extension enables the generation of shareable links to specific requests which other Burp Suite users can import.
+
 
 ## Burp Extension Training Resources
 
