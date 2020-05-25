@@ -518,6 +518,7 @@ request and response processed by Burp.
 
 *Useful blog posts, talks and slides related to developing Burp extensions.*
 
+* [Burp Extension Generator](https://github.com/rsrdesarrollo/generator-burp-extension)
 * [Burp plugin development for java n00bs - Marc Wickenden](https://www.slideshare.net/marcwickenden/burp-plugin-development-for-java-n00bs-44-con)
 * [Developing Burp Suite Extensions - Doyensec](https://github.com/doyensec/burpdeveltraining)
 * [Writing your first Burp Suite extension - Portswigger](https://portswigger.net/burp/extender/writing-your-first-burp-suite-extension)
