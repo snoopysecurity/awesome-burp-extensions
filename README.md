@@ -512,6 +512,7 @@ request and response processed by Burp.
 * [Filter Options Method](https://github.com/capt-meelo/filter-options-method) -  Burp extension that filters out OPTIONS requests from populating Burp's Proxy history.
 * [Burp-Quicker-Context-Extension](https://github.com/bytebutcher/burp-quicker-context) - This extension adds the "Quicker Context" dialog which is a lightweight dialog to select tabs or execute application- and context-menu-entries more easily by typing parts of the name or choosing one stored in history.
 * [Burp Share Requests](https://github.com/Static-Flow/BurpSuiteShareRequests) - This Burp Suite extension enables the generation of shareable links to specific requests which other Burp Suite users can import.
+* [Tea Break](https://github.com/humblelad/TeaBreak) - Burp Suite extension to increase productivity among bug bounty hunters and security researchers while prompting to take break after set time to avoid burnout and health issues.
 
 
 ## Burp Extension Training Resources
