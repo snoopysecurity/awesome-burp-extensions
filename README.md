@@ -97,6 +97,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [FlareQuench](https://github.com/aress31/flarequench) - Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.
 * [Cypher Injection Scanner](https://github.com/morkin1792/cypher-injection-scanner) - A Burp Suite Extension that detects Cypher code injection
 * [InQL Scanner](https://github.com/doyensec/inql) -  A Comprehensive Burp Extension for GraphQL Security Testing
+* [Attack Surface Detector](https://github.com/secdec/attack-surface-detector-burp) - The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters.
 
 ## Custom Features
 
@@ -131,6 +132,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef.
 * [Piper for Burp Suite](https://github.com/silentsignal/burp-piper) - Piper Burp Suite Extender plugin.
 * [Response Grepper](https://github.com/b4dpxl/Burp-ResponseGrepper) - This Burp extension will auto-extract and display values from HTTP Response bodies based on a Regular Expression.
+* [Attack Surface Detector](https://github.com/secdec/attack-surface-detector-burp) - The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters.
 
 ## Beautifiers and Decoders
 
@@ -229,7 +231,7 @@ request and response processed by Burp.
 * [Dr. Watson](https://github.com/prodigysml/Dr.-Watson) - Dr. Watson is a simple Burp Suite extension that helps find assets, keys, subdomains, IP addresses, and other useful information.
 * [Filter OPTIONS Method](https://github.com/capt-meelo/filter-options-method) - A Burp extension that filters out OPTIONS requests from populating Burp's Proxy history. 
 * [Subdomain Extractor](https://github.com/Regala/burp-subdomains) - A very simple, straightforward extension to export sub domains from Burp using a context menu option.
-
+* [Attack Surface Detector](https://github.com/secdec/attack-surface-detector-burp) - The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters.
 
 ## Vulnerability Specific Extensions
 
