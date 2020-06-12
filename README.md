@@ -231,7 +231,6 @@ request and response processed by Burp.
 * [Dr. Watson](https://github.com/prodigysml/Dr.-Watson) - Dr. Watson is a simple Burp Suite extension that helps find assets, keys, subdomains, IP addresses, and other useful information.
 * [Filter OPTIONS Method](https://github.com/capt-meelo/filter-options-method) - A Burp extension that filters out OPTIONS requests from populating Burp's Proxy history. 
 * [Subdomain Extractor](https://github.com/Regala/burp-subdomains) - A very simple, straightforward extension to export sub domains from Burp using a context menu option.
-* [Attack Surface Detector](https://github.com/secdec/attack-surface-detector-burp) - The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters.
 
 ## Vulnerability Specific Extensions
 
