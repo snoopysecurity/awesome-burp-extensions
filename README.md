@@ -268,6 +268,7 @@ request and response processed by Burp.
 * [Token Rewrite](https://github.com/hvqzao/burp-token-rewrite) - This extension lets you search for specific values like CSRF tokens in responses and use their values to modify parameters in future requests or set a cookie.
 * [burp-multistep-csrf-poc](https://github.com/wrvenkat/burp-multistep-csrf-poc) - Burp extension to generate multi-step CSRF POC.
 * [Anti-CSRF Token From Referer](https://github.com/CompassSecurity/anti-csrf-token-from-referer) - The extension works by registering a new session handling rule called "Anti-CSRF token from referer". 
+* [burp-samesite-reporter](https://github.com/ldionmarcil/burp-samesite-reporter) - Burp extension that passively reports various SameSite flags.
 
 
 ### Deserialization
@@ -297,6 +298,7 @@ request and response processed by Burp.
 * [Directory Importer](https://github.com/Static-Flow/DirectoryImporter) - This is a Burpsuite plugin for importing directory bruteforcing results into Burp for futher analysis. 
 * [JS Link Finder](https://github.com/InitRoot/BurpJSLinkFinder) - Burp Extension for a passively scanning JavaScript files for endpoint links. - Export results the text file - Exclude specific 'js' files e.g. jquery, google-analytics.
 * [Secret Finder](https://github.com/m4ll0k/BurpSuite-Secret_Finder) - A Burp Suite extension to help pentesters to discover a apikeys,accesstokens and more sensitive data using a regular expressions. 
+* [Xkeys](https://github.com/vsec7/BurpSuite-Xkeys) - A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
 
 
 ### SQL Injection
@@ -471,6 +473,7 @@ request and response processed by Burp.
 * [Peach API Integration](https://github.com/PeachTech/peachapisec-burp) - This Burp plugin provides integration between Burp and Peach API Security.
 * [YesWeBurp](https://github.com/yeswehack/YesWeBurp) - YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp. 
 * [Nucleus Burp Extension](https://github.com/nucleus-security/Nucleus-Burp-Extension) - This extension allows Burp Suite scans to be pushed to the Nucleus platform.
+* [Import To Sitemap](https://github.com/nccgroup/BurpImportSitemap) - Import To Sitemap is a Burp Suite Extension to import wstalker CSV file or ZAP export file into Burp Sitemap. 
 
 ## Misc
 
@@ -516,6 +519,7 @@ request and response processed by Burp.
 * [Burp-Quicker-Context-Extension](https://github.com/bytebutcher/burp-quicker-context) - This extension adds the "Quicker Context" dialog which is a lightweight dialog to select tabs or execute application- and context-menu-entries more easily by typing parts of the name or choosing one stored in history.
 * [Burp Share Requests](https://github.com/Static-Flow/BurpSuiteShareRequests) - This Burp Suite extension enables the generation of shareable links to specific requests which other Burp Suite users can import.
 * [Tea Break](https://github.com/humblelad/TeaBreak) - Burp Suite extension to increase productivity among bug bounty hunters and security researchers while prompting to take break after set time to avoid burnout and health issues.
+* [Turbo Data Miner](https://github.com/chopicalqui/TurboDataMiner) - This extension adds a new tab Turbo Miner to Burp Suite's GUI as well as an new entry Process in Turbo Miner to Burp Suite's context menu. In the new tab, you are able to write new or select existing Python scripts that are executed on each request/response item currently stored in the Proxy History, Side Map, or on each request/response item that is sent or received by Burp Suite.
 
 
 ## Burp Extension Training Resources
