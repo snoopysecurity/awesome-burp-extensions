@@ -90,7 +90,6 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Scan manual insertion point](https://github.com/cnotin/burp-scan-manual-insertion-point) - This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection.
 * [AdminPanelFinder](https://github.com/moeinfatehi/Admin-Panel_Finder) - A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005).
 * [HTTP Request Smuggler](https://github.com/portswigger/http-request-smuggler) - This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you.
-* [JS Link Finder](https://github.com/InitRoot/BurpJSLinkFinder) - Burp Extension for a passively scanning JavaScript files for endpoint links. - Export results the text file - Exclude specific 'js' files e.g. jquery, google-analytics.
 * [iRule Detector](https://github.com/kugg/irule-detector) - Detect a Remote Code or Command Execution (RCE) vulnerability in some implementations of F5 Networks’ popular BigIP load balancer.
 * [Burp AEM Security Scanner Extension](https://github.com/thomashartm/burp-aem-scanner) - Burp AEM Security Scanner is an AEM focussed plugin which supports the evaluation of well known misconfigurations of AEM installations. 
 * [FlareQuench](https://github.com/aress31/flarequench) - Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications.
@@ -308,7 +307,7 @@ request and response processed by Burp.
 * [Secret Finder](https://github.com/m4ll0k/BurpSuite-Secret_Finder) - A Burp Suite extension to help pentesters to discover a apikeys,accesstokens and more sensitive data using a regular expressions. 
 * [Xkeys](https://github.com/vsec7/BurpSuite-Xkeys) - A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
 * [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d) - This extension enables Burp to scan for SSL vulnerabilities.
-
+* [Secret Finder (beta v0.1)](https://github.com/m4ll0k/BurpSuite-Secret_Finder) - A Burp Suite extension to help pentesters to discover a apikeys,accesstokens and more sensitive data using a regular expressions.  
 
 ### SQL Injection
 * [CO2](https://github.com/JGillam/burp-co2) - A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.
