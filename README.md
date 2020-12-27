@@ -426,7 +426,7 @@ request and response processed by Burp.
 * [Username Generator](https://github.com/jstrosch/Username_Generator) - This is a Python extension that will parse email addresses out of selected URLs from the target tab and display them in the output window of the Extensions tab. 
 * [LogicalFuzzingEngine](https://github.com/wdahlenburg/LogicalFuzzingEngine) - A Burpsuite extension written in Python to perform basic validation fuzzing
 * [Hashcat Maskprocessor Intruder Payloads](https://github.com/quahac/burp-intruder-hashcat-maskprocessor) - Burp Hashcat Maskprocessor Extension, inspired by hashcat maskprocessor https://github.com/hashcat/maskprocessor
-
+* [Fuzzy Encoding Generator](https://github.com/GoSecure/burp-fuzzy-encoding-generator) - This extension allows a user to quickly test various encoding for a given value in Burp Intruder.
 
 ## Cryptography
 
