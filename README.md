@@ -486,6 +486,7 @@ request and response processed by Burp.
 * [YesWeBurp](https://github.com/yeswehack/YesWeBurp) - YesWeBurp is an extension for BurpSuite allowing you to access all your https://yeswehack.com/ bug bounty programs directly inside Burp. 
 * [Nucleus Burp Extension](https://github.com/nucleus-security/Nucleus-Burp-Extension) - This extension allows Burp Suite scans to be pushed to the Nucleus platform.
 * [Import To Sitemap](https://github.com/nccgroup/BurpImportSitemap) - Import To Sitemap is a Burp Suite Extension to import wstalker CSV file or ZAP export file into Burp Sitemap. 
+* [bbrf-burp-plugin](https://github.com/honoki/bbrf-burp-plugin) - Extension for Bug Bounty Reconnaissance Framework
 
 ## Misc
 
