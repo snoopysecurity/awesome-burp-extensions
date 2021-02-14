@@ -137,6 +137,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Copy Request & Response](https://github.com/CompassSecurity/burp-copy-request-response) - The Copy Request & Response Burp Suite extension adds new context menu entries that can be used to simply copy the request and response from the selected message to the clipboard.
 * [HaE - Highlighter and Extractor](https://github.com/gh0stkey/HaE) - HaE is used to highlight HTTP requests and extract information from HTTP response messages.
 * [Burp-IndicatorsOfVulnerability](https://github.com/codewatchorg/Burp-IndicatorsOfVulnerability) - Burp extension that checks application requests and responses for indicators of vulnerability or targets for attack
+* [BurpSuiteSharpener](https://github.com/mdsecresearch/BurpSuiteSharpener) - This extension should add a number of UI and functional features to Burp Suite to make working with it easier.
 
 ## Beautifiers and Decoders
 
