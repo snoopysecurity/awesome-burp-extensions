@@ -139,6 +139,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Burp-IndicatorsOfVulnerability](https://github.com/codewatchorg/Burp-IndicatorsOfVulnerability) - Burp extension that checks application requests and responses for indicators of vulnerability or targets for attack
 * [BurpSuiteSharpener](https://github.com/mdsecresearch/BurpSuiteSharpener) - This extension should add a number of UI and functional features to Burp Suite to make working with it easier.
 * [Burp-Send-To-Extension](https://github.com/bytebutcher/burp-send-to) - Adds a customizable "Send to..."-context-menu to your BurpSuite.
+* [PwnFox](https://github.com/B-i-t-K/PwnFox) - PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit.
 
 ## Beautifiers and Decoders
 
