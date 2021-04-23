@@ -25,7 +25,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
     - [Cross-Site Request Forgery](#cross-site-request-forgery)
     - [Deserialization](#deserialization)
     - [Sensitive Data Exposure](#sensitive-data-exposure)
-    - [SQL/NoSQL Injection](#sql-injection)
+    - [SQL/NoSQL Injection](#sqlnosql-injection)
     - [XXE](#xxe)
     - [Insecure File Uploads](#insecure-file-uploads)
     - [Directory Traversal](#directory-traversal)
