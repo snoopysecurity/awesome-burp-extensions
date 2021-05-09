@@ -438,6 +438,7 @@ request and response processed by Burp.
 * [LogicalFuzzingEngine](https://github.com/wdahlenburg/LogicalFuzzingEngine) - A Burpsuite extension written in Python to perform basic validation fuzzing
 * [Hashcat Maskprocessor Intruder Payloads](https://github.com/quahac/burp-intruder-hashcat-maskprocessor) - Burp Hashcat Maskprocessor Extension, inspired by hashcat maskprocessor https://github.com/hashcat/maskprocessor
 * [Fuzzy Encoding Generator](https://github.com/GoSecure/burp-fuzzy-encoding-generator) - This extension allows a user to quickly test various encoding for a given value in Burp Intruder.
+* [HopLa](https://github.com/synacktiv/HopLa) - This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.
 
 ## Cryptography
 
