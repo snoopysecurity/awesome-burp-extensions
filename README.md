@@ -98,6 +98,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Attack Surface Detector](https://github.com/secdec/attack-surface-detector-burp) - The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters.
 * [ESLinter](https://github.com/parsiya/eslinter) - ESLinter is a Burp extension that extracts JavaScript from responses and lints them with ESLint while you do your manual testing.
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) - An burpsuite extension to bypass 403 restricted directory. 
+* [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) - A passive shiro detection plug-in based on BurpSuite
 
 ## Custom Features
 
