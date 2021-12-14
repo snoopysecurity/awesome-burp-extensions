@@ -30,6 +30,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
     - [Insecure File Uploads](#insecure-file-uploads)
     - [Directory Traversal](#directory-traversal)
     - [Session Management](#session-management)
+    - [CORS  Misconfigurations](#cors-misconfigurations)
     - [Command Injection](#command-injection)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
@@ -102,7 +103,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) - Log4j2 Remote Code Execution Vulnerability, Passive Scan Plugin for BurpSuite.
 * [Log4J Scanner](https://github.com/0xDexter0us/Log4J-Scanner/) - Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability pre and post auth.
 * [Log4Shell scanner for Burp Suite](https://github.com/silentsignal/burp-log4shell) - If you'd like to scan only for Log4j (and not other things such as XSS or SQLi), this plugin makes it possible.
-
+* [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 
 ## Custom Features
 
@@ -305,6 +306,7 @@ request and response processed by Burp.
 * [PHP Object Injection Slinger](https://github.com/ricardojba/poi-slinger) - Designed to help you find PHP Object Injection vulnerabilities on popular PHP Frameworks.
 * [GadgetProbe](https://github.com/BishopFox/GadgetProbe) - This extension augments Intruder to probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.
 
+
 ### Sensitive Data Exposure
 * [Burp Smart Buster](https://github.com/pathetiq/BurpSmartBuster) - A Burp Suite content discovery plugin that add the smart into the Buster!.
 * [PDF Metadata](https://github.com/luh2/PDFMetadata) - The PDF Metadata Burp Extension provides an additional passive Scanner check for metadata in PDF files.
@@ -324,7 +326,8 @@ request and response processed by Burp.
 * [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d) - This extension enables Burp to scan for SSL vulnerabilities.
 * [Secret Finder (beta v0.1)](https://github.com/m4ll0k/BurpSuite-Secret_Finder) - A Burp Suite extension to help pentesters to discover a apikeys,accesstokens and more sensitive data using a regular expressions. 
 * [HTTP Methods Discloser](https://github.com/xxux11/http-methods-discloser) - This extension makes a OPTIONS request and determines if other HTTP methods than the original request are available.
-
+* [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
+* [CYS4-SensitiveDiscoverer](https://github.com/CYS4srl/CYS4-SensitiveDiscoverer) - CYS4-SensitiveDiscoverer is a Burp Suite tool used to extract Regular Expression or File Extension form HTTP response automatically or at the end of all tests or during the test.
 
 
 
@@ -370,6 +373,9 @@ request and response processed by Burp.
 * [ExtendedMacro](https://github.com/FrUh/ExtendedMacro) - BurpSuite plugin providing extended macro functionality.
 * [Authentication Token Obtain and Replace (ATOR)](https://github.com/synopsys-sig/ATOR-Burp) - The plugin is created to help automated scanning using Burp in certain session management scenarios.
 
+## CORS  Misconfigurations
+* [CORS* - Additional CORS Checks](https://github.com/ybieri/Additional_CORS_Checks) - This extension can be used to test websites for CORS misconfigurations. 
+
 ### Command Injection
 
 * [Command Injection Attacker](https://github.com/portswigger/command-injection-attacker) - a comprehensive OS command injection payload generator.
@@ -392,6 +398,7 @@ request and response processed by Burp.
 * [LightBulb WAF Auditing Framework](https://portswigger.net/bappstore/3144e67e904a4fdf91ea96cf4c694c39) - LightBulb is an open source python framework for auditing web application firewalls and filters.
 * [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler) - A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques.
 * [Chunked coding converter](https://github.com/c0ny1/chunked-coding-converter) - This entension use a Transfer-Encoding technology to bypass the waf.
+* [403Bypasser](https://github.com/Gilzy/403Bypasser) - A Burp Suite extension made to automate the process of bypassing 403 pages. 
 
 ## Logging and Notes
 
@@ -460,6 +467,7 @@ request and response processed by Burp.
 * [Length Extension Attacks](https://portswigger.net/bappstore/f156669cae8d4c10a3cd9d0b5270bcf6) - This extension lets you perform hash length extension attacks on weak signature mechanisms.
 * [TLS-Attacker-BurpExtension](https://github.com/RUB-NDS/TLS-Attacker-BurpExtension) - The extension is based on the TLS-Attacker and developed by the Chair for Network and Data Security from the Ruhr-University Bochum to assist pentesters and security researchers in the evaluation of TLS Server configurations with Burp Suite.
 * [Resign v2.0](https://github.com/bit4woo/ReSign) - A burp extender that recalculate signature value automatically after you modified request parameter value.but you need to know the signature algorithm detail and configure at GUI.
+* [BurpCrypto](https://github.com/whwlsfb/BurpCrypto) - Burpcrypto is a collection of burpsuite encryption plug-ins, supporting AES/RSA/DES/ExecJs(execute JS encryption code in burpsuite).
 
 ## Web Services
 
