@@ -99,6 +99,10 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [ESLinter](https://github.com/parsiya/eslinter) - ESLinter is a Burp extension that extracts JavaScript from responses and lints them with ESLint while you do your manual testing.
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) - An burpsuite extension to bypass 403 restricted directory. 
 * [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) - A passive shiro detection plug-in based on BurpSuite
+* [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) - Log4j2 Remote Code Execution Vulnerability, Passive Scan Plugin for BurpSuite.
+* [Log4J Scanner](https://github.com/0xDexter0us/Log4J-Scanner/) - Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability pre and post auth.
+* [Log4Shell scanner for Burp Suite](https://github.com/silentsignal/burp-log4shell) - If you'd like to scan only for Log4j (and not other things such as XSS or SQLi), this plugin makes it possible.
+
 
 ## Custom Features
 
