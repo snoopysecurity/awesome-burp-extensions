@@ -30,7 +30,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
     - [Insecure File Uploads](#insecure-file-uploads)
     - [Directory Traversal](#directory-traversal)
     - [Session Management](#session-management)
-    - [CORS  Misconfigurations](#cors-misconfigurations)
+    - [CORS  Misconfigurations](#cors--misconfigurations)
     - [Command Injection](#command-injection)
 - [Web Application Firewall Evasion](#web-application-firewall-evasion)
 - [Logging and Notes](#logging-and-notes)
@@ -373,7 +373,7 @@ request and response processed by Burp.
 * [ExtendedMacro](https://github.com/FrUh/ExtendedMacro) - BurpSuite plugin providing extended macro functionality.
 * [Authentication Token Obtain and Replace (ATOR)](https://github.com/synopsys-sig/ATOR-Burp) - The plugin is created to help automated scanning using Burp in certain session management scenarios.
 
-## CORS  Misconfigurations
+### CORS  Misconfigurations
 * [CORS* - Additional CORS Checks](https://github.com/ybieri/Additional_CORS_Checks) - This extension can be used to test websites for CORS misconfigurations. 
 
 ### Command Injection
