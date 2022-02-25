@@ -521,6 +521,7 @@ request and response processed by Burp.
 * [Import To Sitemap](https://github.com/nccgroup/BurpImportSitemap) - Import To Sitemap is a Burp Suite Extension to import wstalker CSV file or ZAP export file into Burp Sitemap. 
 * [bbrf-burp-plugin](https://github.com/honoki/bbrf-burp-plugin) - Extension for Bug Bounty Reconnaissance Framework
 * [GAT Security Platform Integration](https://github.com/wmspydev/burp-gat-core-integration) - Burp Extension, integration GAT Digital
+* [Nuclei Template Generator Burp Plugin](https://github.com/projectdiscovery/nuclei-burp-plugin) - A BurpSuite plugin intended to help with nuclei template generation.
 
 ## Misc
 
