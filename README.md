@@ -572,6 +572,7 @@ request and response processed by Burp.
 * [BugPoC](https://github.com/bugpoc-ryan/BugPoC-Burp-Extension) - Burp Suite Extension to send raw HTTP Requests to BugPoC.com.
 * [Burp Customizer](https://github.com/CoreyD97/BurpCustomizer) - This extension allows you to use these themes in Burp Suite, and includes a number of bundled themes to try.
 * [FixerUpper](https://github.com/FSecureLABS/FixerUpper) - A Burp extension to enable modification of FIX messages when relayed from MitM_Relay
+* [SourceMapper](https://github.com/yg-ht/SourceMapper) - This is a Burpsuite extension for injecting offline source maps for easier JavaScript debugging.
 
 ## Burp Extension Training Resources
 
