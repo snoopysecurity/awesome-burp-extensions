@@ -152,6 +152,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Reshaper for Burp](https://github.com/synfron/ReshaperForBurp) - Extension for Burp Suite to trigger actions and reshape HTTP request and response traffic using configurable rules
 * [RepeaterClips](https://github.com/0xd0ug/burpExtensions-clipboardRepeater) - The RepeaterClips extension lets you share requests with just two clicks and a paste.
 * [Burp Customizer](https://github.com/CoreyD97/BurpCustomizer) - Because just a dark theme wasn't enough.
+* [Copy Regex Matches](https://github.com/honoki/burp-copy-regex-matches) - Copy Regex Matches is a Burp Suite plugin to copy regex matches from selected requests and/or responses to the clipboard.
+
 
 
 ## Beautifiers and Decoders
