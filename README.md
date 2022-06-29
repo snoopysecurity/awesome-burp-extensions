@@ -405,6 +405,7 @@ request and response processed by Burp.
 * [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler) - A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques.
 * [Chunked coding converter](https://github.com/c0ny1/chunked-coding-converter) - This entension use a Transfer-Encoding technology to bypass the waf.
 * [403Bypasser](https://github.com/Gilzy/403Bypasser) - A Burp Suite extension made to automate the process of bypassing 403 pages. 
+* [Awesome TLS](https://github.com/sleeyax/burp-awesome-tls) - This extension improves Burp Suite's HTTP/TLS stack and can make it appear like a regular browser to evade layer 4 to 5 WAFs.
 
 ## Logging and Notes
 
