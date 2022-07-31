@@ -106,7 +106,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Log4Shell scanner for Burp Suite](https://github.com/silentsignal/burp-log4shell) - If you'd like to scan only for Log4j (and not other things such as XSS or SQLi), this plugin makes it possible.
 * [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [Trishul](https://github.com/gauravnarwani97/Trishul) - Burp Extension written in Jython to hunt for common vulnerabilities found in websites.
-
+* [RouteVulScan](https://github.com/F6JO/RouteVulScan) - Route Vulnerable scanning
 
 ## Custom Features
 
@@ -153,7 +153,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [RepeaterClips](https://github.com/0xd0ug/burpExtensions-clipboardRepeater) - The RepeaterClips extension lets you share requests with just two clicks and a paste.
 * [Burp Customizer](https://github.com/CoreyD97/BurpCustomizer) - Because just a dark theme wasn't enough.
 * [Copy Regex Matches](https://github.com/honoki/burp-copy-regex-matches) - Copy Regex Matches is a Burp Suite plugin to copy regex matches from selected requests and/or responses to the clipboard.
-
+* [match-replace-burp](https://github.com/daffainfo/match-replace-burp) - Useful Match and Replace BurpSuite Rules
 
 
 ## Beautifiers and Decoders
@@ -237,6 +237,7 @@ request and response processed by Burp.
 * [AuthHeader Updater](https://github.com/sampsonc/AuthHeaderUpdater) - Burp extension to specify the token value for the Authenication header while scanning.
 * [Dupe Key Injector](https://github.com/pwntester/DupeKeyInjector) - Dupe Key Injetctor is a Burp Suite extension implementing Dupe Key Confusion, a new XML signature bypass technique presented at BSides/BlackHat/DEFCON 2019 "SSO Wars: The Token Menace" presentation.
 * [SAMLReQuest](https://github.com/ernw/burpsuite-extensions/tree/master/SAMLReQuest) - Enables you to view, decode, and modify SAML requests and responses.
+* [OAUTHScan](https://github.com/akabe1/OAUTHScan) - OAUTHScan is a Burp Suite Extension written in Java with the aim to provide some automatic security checks, which could be useful during penetration testing on applications implementing OAUTHv2 and OpenID standards.
 
 ## Information Gathering
 
