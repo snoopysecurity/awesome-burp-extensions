@@ -107,6 +107,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [Trishul](https://github.com/gauravnarwani97/Trishul) - Burp Extension written in Jython to hunt for common vulnerabilities found in websites.
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) - Route Vulnerable scanning
+* [Agartha](https://github.com/volkandindar/agartha) - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues. 
 
 ## Custom Features
 
