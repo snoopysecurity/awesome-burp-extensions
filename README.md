@@ -155,7 +155,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Burp Customizer](https://github.com/CoreyD97/BurpCustomizer) - Because just a dark theme wasn't enough.
 * [Copy Regex Matches](https://github.com/honoki/burp-copy-regex-matches) - Copy Regex Matches is a Burp Suite plugin to copy regex matches from selected requests and/or responses to the clipboard.
 * [match-replace-burp](https://github.com/daffainfo/match-replace-burp) - Useful Match and Replace BurpSuite Rules
-
+* [Backup Finder](https://github.com/moeinfatehi/Backup-Finder) - A burp suite extension that reviews backup, old, temporary, and unreferenced files on the webserver for sensitive information.
+* [Diff Last Response](https://github.com/hackvertor/diffy) - Diff last response will show the difference between the previous and current response.
 
 ## Beautifiers and Decoders
 
