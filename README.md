@@ -442,7 +442,7 @@ request and response processed by Burp.
 * [Bookmarks](https://github.com/TypeError/Bookmarks) - A Burp Suite extension to bookmark requests for later, instead of those 100 unnamed repeater tabs you've got open.
 * [Scope Monitor](https://github.com/portswigger/scope-monitor) - A Burp Suite Extension to monitor and keep track of tested endpoints.
 * [Progress Tracker](https://github.com/dariusztytko/progress-burp) - Burp Suite extension to track vulnerability assessment progress.
-* [Pentest Mapper](https://portswigger.net/bappstore/af490ae7e79546fa81a28d8d0b90874e) - A Burp Suite Extension for Application Penetration Testing to map flows and vulnerabilities and write test cases for each flow, API and http request. 
+* [Pentest Mapper](https://github.com/Anof-cyber/Pentest-Mapper) - A Burp Suite Extension for Application Penetration Testing to map flows and vulnerabilities and write test cases for each flow, API and http request. 
 
 
 ## Payload Generators and Fuzzers
