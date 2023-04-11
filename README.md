@@ -109,6 +109,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) - Route Vulnerable scanning
 * [Agartha](https://github.com/volkandindar/agartha) - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues. 
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
+* [Burp DOM Scanner](https://github.com/fcavallarin/burp-dom-scanner) - It's a Burp Suite's extension to allow for recursive crawling and scanning of Single Page Applications.
 
 ## Custom Features
 
