@@ -160,7 +160,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Backup Finder](https://github.com/moeinfatehi/Backup-Finder) - A burp suite extension that reviews backup, old, temporary, and unreferenced files on the webserver for sensitive information.
 * [Diff Last Response](https://github.com/hackvertor/diffy) - Diff last response will show the difference between the previous and current response.
 * [WebAuthn CBOR Decoder](https://github.com/srikanthramu/webauthn-cbor-burp) - WebAuthn CBOR is a Burp Extension to decode WebAuthn CBOR format. WebAuthn is a W3C Standard to support strong authentication of users.
-
+* [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) - This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing.
 ## Beautifiers and Decoders
 
 *Extensions related to beautifying and decoding data formats.*
