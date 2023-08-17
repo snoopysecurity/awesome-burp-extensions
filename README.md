@@ -110,10 +110,11 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Agartha](https://github.com/volkandindar/agartha) - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues. 
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
 * [Burp DOM Scanner](https://github.com/fcavallarin/burp-dom-scanner) - It's a Burp Suite's extension to allow for recursive crawling and scanning of Single Page Applications.
+* [JSpector ](https://github.com/hisxo/JSpector) - JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs, endpoints and dangerous methods found on the JS files.
 
 ## Custom Features
 
-*Extensions related to customizing Burp features and extend the functionality of Burp Suite in numerous ways.*
+*Extensions rel)ated to customizing Burp features and extend the functionality of Burp Suite in numerous ways.*
 
 * [Burp Bounty - Scan Check Builder](https://github.com/wagiro/BurpBounty) - This BurpSuite extension allows you, in a quick and simple way, to improve the active and passive burpsuite scanner by means of personalized rules through a very intuitive graphical interface.
 * [Scan Manual Insertion Point](https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f) - This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection. 
