@@ -111,7 +111,9 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [RouteVulScan](https://github.com/F6JO/RouteVulScan) - RouteVulScan is a burp plug-in developed using Java that can recursively detect vulnerable paths.
 * [Burp DOM Scanner](https://github.com/fcavallarin/burp-dom-scanner) - It's a Burp Suite's extension to allow for recursive crawling and scanning of Single Page Applications.
 * [JSpector ](https://github.com/hisxo/JSpector) - JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs, endpoints and dangerous methods found on the JS files.
-
+* [Server-Side Prototype Pollution Scanner](https://github.com/hackvertor/server-side-prototype-pollution) - This extension identifies server side prototype pollution vulnerabilities, and requires Burp Suite v2021.9 or later.
+* [Host Header Inchecktion](https://github.com/fabianbinna/host_header_inchecktion) - This burp extension helps to find host header injection vulnerabilities by actively testing a set of injection types. A scan issue is created if an injection was successful.
+  
 ## Custom Features
 
 *Extensions rel)ated to customizing Burp features and extend the functionality of Burp Suite in numerous ways.*
@@ -268,7 +270,9 @@ request and response processed by Burp.
 * [Subdomain Extractor](https://github.com/Regala/burp-subdomains) - A very simple, straightforward extension to export sub domains from Burp using a context menu option.
 * [SAN Scanner](https://github.com/seisvelas/SAN-Scanner) - SAN Scanner is a Burp Suite extension for enumerating associated domains & services via the Subject Alt Names section of SSL certificates.
 * [Add to sitemap++](https://github.com/quahac/burp-add-to-sitemap-plusplus) - Add to sitemap++ is a BURP extension that can read URLs from files or clipboard and add the discovered information on the site map of the selected host(s).
+* [Look Over There](https://github.com/yg-ht/Burp-LookOverThere) - This is a Burp Suite extension to help Burp know where to look during scanning.
 
+ 
 ## Vulnerability Specific Extensions
 
 ### Cross-site scripting
@@ -345,7 +349,9 @@ request and response processed by Burp.
 * [Burp JS Miner](https://github.com/minamo7sen/burp-JS-Miner) - This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
 * [CYS4-SensitiveDiscoverer](https://github.com/CYS4srl/CYS4-SensitiveDiscoverer) - CYS4-SensitiveDiscoverer is a Burp Suite tool used to extract Regular Expression or File Extension form HTTP response automatically or at the end of all tests or during the test.
 * [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) - This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on. 
-
+* [Levo Burp Extension](https://github.com/levoai/levoai-burp-extension) - Build OpenApi specs from Burp's traffic using Levo.ai. Also detect and classify the PII, and annotate specs with the PII details.
+* [Headers Burp Extension](https://github.com/dh0ck/Headers) - It removes the hassle of reporting missing security headers in your pentest reports.
+ 
 
 ### SQL/NoSQL Injection
 * [CO2](https://github.com/JGillam/burp-co2) - A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool.
@@ -416,7 +422,8 @@ request and response processed by Burp.
 * [Chunked coding converter](https://github.com/c0ny1/chunked-coding-converter) - This entension use a Transfer-Encoding technology to bypass the waf.
 * [403Bypasser](https://github.com/Gilzy/403Bypasser) - A Burp Suite extension made to automate the process of bypassing 403 pages. 
 * [Awesome TLS](https://github.com/sleeyax/burp-awesome-tls) - This extension overrides Burp Suite's default HTTP and TLS stack to make it immune to WAF fingerprinting methods such as JA3, HTTP2 frames, etc.
-
+* [JSON Escaper](https://github.com/akashc99/JSON-Escaper-Burp-Suite-Python-plugin) - The JSON Escaper Burp Suite plugin simplifies the process of escaping JSON payloads for pentesters, as there is no built-in option for this in Burp.
+  
 ## Logging and Notes
 
 *Extensions related to logging HTTP traffic during assessments and storing Burp traffic.*
@@ -474,6 +481,10 @@ request and response processed by Burp.
 * [Hashcat Maskprocessor Intruder Payloads](https://github.com/quahac/burp-intruder-hashcat-maskprocessor) - Burp Hashcat Maskprocessor Extension, inspired by hashcat maskprocessor https://github.com/hashcat/maskprocessor
 * [Fuzzy Encoding Generator](https://github.com/GoSecure/burp-fuzzy-encoding-generator) - This extension allows a user to quickly test various encoding for a given value in Burp Intruder.
 * [HopLa](https://github.com/synacktiv/HopLa) - This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.
+* [Agartha - LFI, RCE, SQLi, Authentication, Authorization and Copy as JavaScript](https://github.com/volkandindar/agartha) - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.
+
+
+  
 
 ## Cryptography
 
@@ -541,7 +552,8 @@ request and response processed by Burp.
 * [bbrf-burp-plugin](https://github.com/honoki/bbrf-burp-plugin) - Extension for Bug Bounty Reconnaissance Framework
 * [GAT Security Platform Integration](https://github.com/wmspydev/burp-gat-core-integration) - Burp Extension, integration GAT Digital
 * [Nuclei Template Generator Burp Plugin](https://github.com/projectdiscovery/nuclei-burp-plugin) - A BurpSuite plugin intended to help with nuclei template generation.
-
+* [Semgrepper](https://github.com/gand3lf/semgrepper) - The current project provides a Burp Suite extension to allow users to include Semgrep results to extend the checks in use by the passive scanner.
+* * [Burptrast](https://github.com/Contrast-Security-OSS/Burptrast) - Burptrast is designed to pull endpoint information from Teamserver and import it into Burp's sitemap.
 
 ## Misc
 
@@ -594,7 +606,9 @@ request and response processed by Burp.
 * [FixerUpper](https://github.com/FSecureLABS/FixerUpper) - A Burp extension to enable modification of FIX messages when relayed from MitM_Relay
 * [SourceMapper](https://github.com/yg-ht/SourceMapper) - This is a Burpsuite extension for injecting offline source maps for easier JavaScript debugging.
 * [uproot-JS](https://github.com/0xDexter0us/uproot-JS) - Extract JavaScript files from burp suite project with ease.
-
+* [OData Explorer](https://github.com/xybytes/OData-Explorer) - OData Explorer is a Burp Suite extension specifically designed for black-box security testing of OData services.
+* [Copy to Bcheck](https://github.com/vrechson/copy-to-bcheck) - The purpose of this extension is to streamline the process of creating simple bcheck scripts, reducing the time required to generate them.
+* [Copy Headers As -H Arguments](https://github.com/n0kovo/burp-copy-headers-as-args) - The "Copy Headers As -H Arguments" Burp Suite extension adds a new context menu entry that will copy the headers from the selected request to the clipboard in various formats
 
 ## Burp Extension Training Resources
 
