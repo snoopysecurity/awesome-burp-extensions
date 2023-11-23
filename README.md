@@ -395,7 +395,6 @@ request and response processed by Burp.
 * [Burp Wicket Handler](https://github.com/Meatballs1/burp_wicket_handler/tree/8047692597e837de02810b5ef3ad97ed0da1385a) - Used as part of Burps Session Handling, Record a Macro which just gets the page you want to submit
 * [Add Request to Macro](https://github.com/pajswigger/add-request-to-macro) - This Burp extension lets you add a request to an existing macro.
 * [Cookie Decrypter](https://github.com/SolomonSklash/cookie-decrypter) - A Burp Suite Professional extension for decrypting/decoding various types of cookies.
-* [ExtendedMacro](https://github.com/FrUh/ExtendedMacro) - BurpSuite plugin providing extended macro functionality.
 * [Authentication Token Obtain and Replace (ATOR)](https://github.com/synopsys-sig/ATOR-Burp) - The plugin is created to help automated scanning using Burp in certain session management scenarios.
 
 ### CORS  Misconfigurations
