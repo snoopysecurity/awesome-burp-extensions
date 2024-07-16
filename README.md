@@ -113,6 +113,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [JSpector ](https://github.com/hisxo/JSpector) - JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs, endpoints and dangerous methods found on the JS files.
 * [Server-Side Prototype Pollution Scanner](https://github.com/hackvertor/server-side-prototype-pollution) - This extension identifies server side prototype pollution vulnerabilities, and requires Burp Suite v2021.9 or later.
 * [Host Header Inchecktion](https://github.com/fabianbinna/host_header_inchecktion) - This burp extension helps to find host header injection vulnerabilities by actively testing a set of injection types. A scan issue is created if an injection was successful.
+* [DNS Analyzer](https://github.com/The-Login/DNS-Analyzer) - A Burp Suite extension for discovering DNS vulnerabilities in web applications!
   
 ## Custom Features
 
@@ -165,6 +166,9 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [WebAuthn CBOR Decoder](https://github.com/srikanthramu/webauthn-cbor-burp) - WebAuthn CBOR is a Burp Extension to decode WebAuthn CBOR format. WebAuthn is a W3C Standard to support strong authentication of users.
 * [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) - This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing.
 * [SocketSleuth](https://github.com/snyk/socketsleuth) - SocketSleuth aims to enhance Burp Suite's websocket testing capabilities and make testing websocket based applications easier. 
+* [HAR Importer](https://github.com/fortalice/HARImporter) - A HAR importer.
+* [Conditional Match and Replace (CMAR)](https://github.com/CyberCX-STA/cmar) - An extension allowing you to create match and replace operations that execute only when a condition is matched (or not matched). The condition can be matched against the request Header/Body/All, or the response Header/Body/All. If the condition is matched, you can apply a match and replace rule against the specified area. You can create a condition that matches a request, then performs a match and replace in the response.
+* [BlazorTrafficProcessor (BTP)](https://github.com/AonCyberLabs/BlazorTrafficProcessor) - A BurpSuite extension to aid pentesting web applications that use Blazor Server/BlazorPack. Primary functionality includes converting BlazorPack messages to JSON and vice versa, introduces tamperability for BlazorPack serialized messages.
 
   
 ## Beautifiers and Decoders
@@ -289,6 +293,8 @@ request and response processed by Burp.
 * [Reflected Parameters](https://github.com/portswigger/reflected-parameters) - This extension monitors traffic and looks for request parameter values (longer than 3 characters) that are reflected in the response.
 * [jsonp](https://github.com/kapytein/jsonp) - jsonp is a Burp Extension which attempts to reveal JSONP functionality behind JSON endpoints. This could help reveal cross-site script inclusion vulnerabilities or aid in bypassing content security policies.
 * [feminda](https://github.com/wish-i-was/femida) - An automated blind-xss search plugin for Burp Suite.
+* [XSS Cheatsheet](https://github.com/0kman/XSS-Cheatsheet) - An extension to incorporate PortSwigger's Cross-site scripting cheat sheet in to Burp.
+
 
 ### Broken Access Control
 * [Burplay/Multi Session Replay](https://github.com/SpiderLabs/burplay) - Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues.
@@ -396,6 +402,8 @@ request and response processed by Burp.
 * [Add Request to Macro](https://github.com/pajswigger/add-request-to-macro) - This Burp extension lets you add a request to an existing macro.
 * [Cookie Decrypter](https://github.com/SolomonSklash/cookie-decrypter) - A Burp Suite Professional extension for decrypting/decoding various types of cookies.
 * [Authentication Token Obtain and Replace (ATOR)](https://github.com/synopsys-sig/ATOR-Burp) - The plugin is created to help automated scanning using Burp in certain session management scenarios.
+* [Session-Handler-Plus](https://github.com/V9Y1nf0S3C/Session-Handler-Plus) - The Session Handler Plus (SH+) Burp Suite extension offers enhanced session handling capabilities for JWTs, access tokens, refresh tokens, and CSRF tokens. Additionally, it allows for custom scripts to be launched through session handling actions, and facilitates the triggering of Selenium automation to execute complex or JavaScript based login procedures.
+
 
 ### CORS  Misconfigurations
 * [CORS* - Additional CORS Checks](https://github.com/ybieri/Additional_CORS_Checks) - This extension can be used to test websites for CORS misconfigurations. 
@@ -408,6 +416,9 @@ request and response processed by Burp.
 ### Template Injection
 
 * [tplmap Burp Extenson](https://github.com/epinna/tplmap/tree/master/burp_extension) - Burp extension for Tplmap, a Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+
+### Type Confusion
+* [Type Confusion Extension](https://github.com/certuscyber/bapp-certus) - This Burp Extension was created by Certus Cybersecurity to help find type confusion vulnerablities in applications.
 
 ## Web Application Firewall Evasion
 
@@ -425,6 +436,7 @@ request and response processed by Burp.
 * [403Bypasser](https://github.com/Gilzy/403Bypasser) - A Burp Suite extension made to automate the process of bypassing 403 pages. 
 * [Awesome TLS](https://github.com/sleeyax/burp-awesome-tls) - This extension overrides Burp Suite's default HTTP and TLS stack to make it immune to WAF fingerprinting methods such as JA3, HTTP2 frames, etc.
 * [JSON Escaper](https://github.com/akashc99/JSON-Escaper-Burp-Suite-Python-plugin) - The JSON Escaper Burp Suite plugin simplifies the process of escaping JSON payloads for pentesters, as there is no built-in option for this in Burp.
+* [WAF Bypadd](https://github.com/julianjm/waf_bypadd) - This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data.
   
 ## Logging and Notes
 
@@ -484,7 +496,7 @@ request and response processed by Burp.
 * [Fuzzy Encoding Generator](https://github.com/GoSecure/burp-fuzzy-encoding-generator) - This extension allows a user to quickly test various encoding for a given value in Burp Intruder.
 * [HopLa](https://github.com/synacktiv/HopLa) - This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.
 * [Agartha - LFI, RCE, SQLi, Authentication, Authorization and Copy as JavaScript](https://github.com/volkandindar/agartha) - Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues.
-
+* [ParaForge](https://github.com/Anof-cyber/ParaForge) - ParaForge is a simple Burp Suite extension to extract the paramters and endpoints from the request to create custom wordlist for fuzzing and enumeration.
 
   
 
@@ -555,7 +567,8 @@ request and response processed by Burp.
 * [GAT Security Platform Integration](https://github.com/wmspydev/burp-gat-core-integration) - Burp Extension, integration GAT Digital
 * [Nuclei Template Generator Burp Plugin](https://github.com/projectdiscovery/nuclei-burp-plugin) - A BurpSuite plugin intended to help with nuclei template generation.
 * [Semgrepper](https://github.com/gand3lf/semgrepper) - The current project provides a Burp Suite extension to allow users to include Semgrep results to extend the checks in use by the passive scanner.
-* * [Burptrast](https://github.com/Contrast-Security-OSS/Burptrast) - Burptrast is designed to pull endpoint information from Teamserver and import it into Burp's sitemap.
+* [Burptrast](https://github.com/Contrast-Security-OSS/Burptrast) - Burptrast is designed to pull endpoint information from Teamserver and import it into Burp's sitemap.
+
 
 ## Misc
 
