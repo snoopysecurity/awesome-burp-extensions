@@ -681,3 +681,4 @@ request and response processed by Burp.
 * [Burp Suite Webinar for h1-702](https://www.youtube.com/watch?v=IdzmnSVidvU)
 * [Burp Suite 2 Series](https://www.youtube.com/playlist?list=PLZOToVAK85MoBg65au9EeFkK7qwzppcnU)
 * [Hacker101 - Burp Suite Playlist](https://www.hacker101.com/playlists/burp_suite.html)
+* [AIAIAI](https://github.com/Hipapheralkus/AIAIAI/)
