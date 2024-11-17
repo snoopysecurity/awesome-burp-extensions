@@ -116,6 +116,8 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [Host Header Inchecktion](https://github.com/fabianbinna/host_header_inchecktion) - This burp extension helps to find host header injection vulnerabilities by actively testing a set of injection types. A scan issue is created if an injection was successful.
 * [DNS Analyzer](https://github.com/The-Login/DNS-Analyzer) - A Burp Suite extension for discovering DNS vulnerabilities in web applications!
 * [PasskeyScanner](https://github.com/alexcowperthwaite/PasskeyScanner) - This is a BurpSuite plugin that recognizes and scans Passkey (webauthn) protocols and detects security issues.
+* [blinks](https://github.com/0xanuj/blinks) - Blinks is a powerful Burp Suite extension that automates active scanning with Burp Suite Pro and enhances its functionality. With the integration of webhooks, this tool sends real-time updates whenever a new issue is identified, directly to your preferred endpoint. 
+
   
 ## Custom Features
 
