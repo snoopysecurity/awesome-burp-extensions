@@ -180,6 +180,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [SocketSleuth](https://github.com/snyk/socketsleuth) - Burp Extension to add additional functionality for pentesting websocket based applications 
 * [DNS-Exfilnspector](https://github.com/LazyTitan33/DNS-Exfilnspector) - Automagically decode DNS Exfiltration queries to convert Blind RCE into proper RCE via Burp Collaborator
 * [BatchRepeater](https://github.com/Mathemag1cian/BatchRepeater) - BatchRepeater is a BurpSuite extension that enhances the functionality of the Repeater tool by allowing users to send multiple selected HTTP requests to the Repeater in a single action.
+* [reDOM](https://github.com/weirdmachine64/reDOM) - reDOM is Burp Suite extension that brings full DOM rendering capabilities directly into Burp, enabling effective security testing of modern JavaScript-heavy applications built with frameworks like ReactJS, VueJS, Angular, and more.
 
 ## Beautifiers and Decoders
 
