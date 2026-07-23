@@ -45,6 +45,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 
 *Passive and Active scan plugins.*
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Active Scan++](https://github.com/albinowax/ActiveScanPlusPlus) - ActiveScan++ extends Burp Suite's active and passive scanning capabilities.
 * [Burp Vulners Scanner](https://github.com/vulnersCom/burp-vulners-scanner) - Vulnerability scanner based on vulners.com search API.
 * [Additional Scanner checks](https://github.com/portswigger/additional-scanner-checks) - Collection of scanner checks missing in Burp.
