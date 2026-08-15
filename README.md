@@ -64,7 +64,7 @@ Awesome burp extensions is an amazing list for people who want to spice up their
 * [UUID issues for Burp Suite](https://github.com/silentsignal/burp-uuid) - UUID issues for Burp Suite.
 * [JSON array issues for Burp Suite](https://github.com/silentsignal/burp-json-array) - JSON Array issues plugin for Burp Suite.
 * [Burp Retire JS](https://github.com/h3xstream/burp-retire-js) - Burp/ZAP/Maven extension that integrate Retire.js repository to find vulnerable Javascript libraries.
-* [SOMEtime](https://github.com/linkedin/sometime) - A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities.
+* [SOMEtime](https://github.com/LinkedInAttic/sometime) - A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities.
 * [HTTPoxy Scanner](https://github.com/PortSwigger/httpoxy-scanner) - A Burp Suite extension that checks for the HTTPoxy vulnerability.
 * [ParrotNG](https://github.com/ikkisoft/ParrotNG) - ParrotNG is a tool capable of identifying Adobe Flex applications (SWF) vulnerable to CVE-2011-2461.
 * [Error Message Checks](https://github.com/augustd/burp-suite-error-message-checks) - Burp Suite extension to passively scan for applications revealing server error messages.
@@ -297,6 +297,7 @@ request and response processed by Burp.
 * [SAN Scanner](https://github.com/seisvelas/SAN-Scanner) - SAN Scanner is a Burp Suite extension for enumerating associated domains & services via the Subject Alt Names section of SSL certificates.
 * [Add to sitemap++](https://github.com/quahac/burp-add-to-sitemap-plusplus) - Add to sitemap++ is a BURP extension that can read URLs from files or clipboard and add the discovered information on the site map of the selected host(s).
 * [Look Over There](https://github.com/yg-ht/Burp-LookOverThere) - This is a Burp Suite extension to help Burp know where to look during scanning.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
  
 ## Vulnerability Specific Extensions
