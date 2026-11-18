@@ -328,6 +328,7 @@ request and response processed by Burp.
 * [IncrementMe Please](https://github.com/alexlauerman/IncrementMePlease) - Burp extension to increment a parameter in each active scan request.
 * [Auth Analyzer](https://github.com/simioni87/auth_analyzer) - This Burp Extension helps you to find authorization bugs by repeating Proxy requests with self defined headers and tokens.
 * [AdminPanelFinder](https://github.com/moeinfatehi/Admin-Panel_Finder) - A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005)
+* [ReproCase](https://github.com/theasbug/reprocase) - Send selected requests from Burp to ReproCase, which reproduces IDOR/BOLA findings with fresh test accounts and gives a reproduced / not reproduced / inconclusive verdict.
 
 ### Cross-Site Request Forgery
 * [CSRF Scanner](https://github.com/ah8r/csrf) -  CSRF Scanner Extension for Burp Suite Pro.
